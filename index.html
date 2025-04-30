@@ -3,9 +3,38 @@
 <head>
     <title>QR-Code Generator</title>
 <body>
-    the file is not edited
-    <div>
-            <img src="img.png">
-    </div>
+This is a text
+<div>
+    <img src="img.png">
+</div>
+<input type="text" name="input1" id="2">
+<input type="button" value="Capacity Chart" onclick="WriteToFile()">
+<a href="#" id="download">Download</a>
+
+<script>
+    function WriteToFile() {
+    fetch("processes.txt")
+  .then((res) => res.text())
+  .then((text) => {
+    var fileName = "list of processes.txt";
+    var fileContent = text;
+    var myFile = new Blob([fileContent], {type: 'text/plain'});
+
+    window.URL = window.URL || window.webkitURL;
+    var dlBtn = document.getElementById("download");
+
+    dlBtn.setAttribute("href", window.URL.createObjectURL(myFile));
+    dlBtn.setAttribute("download", fileName);
+    console.log("hello")
+    })
+    .catch((e) => console.error(e));
+
+
+}
+
+
+</script>
+
+
 </body>
 </html>
