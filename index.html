@@ -5,38 +5,17 @@
 <body>
 This is a text
 <a href="img.png" download="desktop image">
-          <img src="img.png">
-    </a>
-
-
-
-    <a href="processes.txt" download="processes file">
-          <img src="img.png">
-    </a>
-
-<script>
-    function WriteToFile() {
-    fetch("processes.txt")
-  .then((res) => res.text())
-  .then((text) => {
-    var fileName = "list of processes.txt";
-    var fileContent = text;
-    var myFile = new Blob([fileContent], {type: 'text/plain'});
-
-    window.URL = window.URL || window.webkitURL;
-    var dlBtn = document.getElementById("download");
-
-    dlBtn.setAttribute("href", window.URL.createObjectURL(myFile));
-    dlBtn.setAttribute("download", fileName);
-    console.log("hello")
-    })
-    .catch((e) => console.error(e));
-
-
-}
-
-
-</script>
+    <img src="img.png">
+    <div>Download image</div>
+</a>
+<a href="processes.txt" download="processes file">
+    <img src="img.png">
+    <div>Download processes file</div>
+</a>
+<a href="ing sent.png" download="image that is sent">
+    <img src="img sent.png">
+    <div>Image sent to you</div>
+</a>
 
 
 </body>
