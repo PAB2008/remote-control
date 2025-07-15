@@ -4,54 +4,54 @@ Akola,
 2025-07-15 12:00:00
             Desc:Light Rain
             Temp:32.0°C
-            Cloudy:97%
-            Precipitation:20.0%
+            Cloudy:95%
+            Precipitation:22.0%
             Humidity:54
-            Wind speed:2.8m/s
+            Wind speed:3.85m/s
 2025-07-15 15:00:00
             Desc:Overcast Clouds
             Temp:31.7°C
-            Cloudy:98%
+            Cloudy:96%
             Precipitation:0%
             Humidity:56
-            Wind speed:1.8m/s
+            Wind speed:2.01m/s
 2025-07-15 18:00:00
             Desc:Overcast Clouds
-            Temp:30.4°C
-            Cloudy:99%
+            Temp:30.6°C
+            Cloudy:94%
             Precipitation:0%
-            Humidity:62
-            Wind speed:4.08m/s
+            Humidity:60
+            Wind speed:4.55m/s
 2025-07-15 21:00:00
-            Desc:Moderate Rain
-            Temp:27.3°C
-            Cloudy:74%
+            Desc:Light Rain
+            Temp:27.9°C
+            Cloudy:66%
             Precipitation:100%
-            Humidity:75
-            Wind speed:6.92m/s
+            Humidity:71
+            Wind speed:6.8m/s
 
 
 2025-07-16 00:00:00
             Desc:Light Rain
-            Temp:26.0°C
-            Cloudy:87%
+            Temp:26.7°C
+            Cloudy:83%
             Precipitation:100%
-            Humidity:82
-            Wind speed:5.43m/s
+            Humidity:77
+            Wind speed:5.26m/s
 2025-07-16 03:00:00
-            Desc:Light Rain
-            Temp:28.0°C
-            Cloudy:89%
-            Precipitation:28.999999999999996%
-            Humidity:72
-            Wind speed:6.15m/s
+            Desc:Overcast Clouds
+            Temp:28.5°C
+            Cloudy:97%
+            Precipitation:0%
+            Humidity:68
+            Wind speed:6.41m/s
 2025-07-16 06:00:00
-            Desc:Light Rain
-            Temp:31.6°C
+            Desc:Overcast Clouds
+            Temp:32.7°C
             Cloudy:91%
-            Precipitation:25.0%
-            Humidity:56
-            Wind speed:5.6m/s
+            Precipitation:0%
+            Humidity:51
+            Wind speed:5.74m/s
 2025-07-16 09:00:00
             Desc:Light Rain
             Temp:32.5°C
