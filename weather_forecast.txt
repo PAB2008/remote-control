@@ -3,24 +3,24 @@ Akola,
 
 2025-07-15 15:00:00
             Desc:Overcast Clouds
-            Temp:32.2°C
-            Cloudy:96%
+            Temp:31.6°C
+            Cloudy:97%
             Precipitation:0%
-            Humidity:51
+            Humidity:55
             Wind speed:2.01m/s
 2025-07-15 18:00:00
             Desc:Overcast Clouds
-            Temp:30.7°C
-            Cloudy:94%
+            Temp:31.0°C
+            Cloudy:96%
             Precipitation:0%
-            Humidity:59
+            Humidity:58
             Wind speed:4.55m/s
 2025-07-15 21:00:00
             Desc:Light Rain
-            Temp:27.9°C
-            Cloudy:66%
+            Temp:29.1°C
+            Cloudy:76%
             Precipitation:100%
-            Humidity:71
+            Humidity:66
             Wind speed:6.8m/s
 
 
