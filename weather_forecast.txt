@@ -44,99 +44,99 @@ Akola,
             Humidity:83
             Wind speed:1.65m/s
 2025-07-17 21:00:00
-            Desc:Light Rain
-            Temp:27.0°C
+            Desc:Overcast Clouds
+            Temp:26.0°C
             Cloudy:100%
-            Precipitation:74.0%
-            Humidity:80
-            Wind speed:1.08m/s
+            Precipitation:9.0%
+            Humidity:83
+            Wind speed:1.16m/s
 
 
 2025-07-18 00:00:00
-            Desc:Light Rain
-            Temp:26.8°C
-            Cloudy:100%
-            Precipitation:65.0%
-            Humidity:79
-            Wind speed:2.54m/s
-2025-07-18 03:00:00
             Desc:Overcast Clouds
-            Temp:28.1°C
+            Temp:25.9°C
             Cloudy:100%
             Precipitation:0%
-            Humidity:67
-            Wind speed:6.71m/s
+            Humidity:83
+            Wind speed:0.88m/s
+2025-07-18 03:00:00
+            Desc:Light Rain
+            Temp:28.3°C
+            Cloudy:100%
+            Precipitation:31.0%
+            Humidity:69
+            Wind speed:4.31m/s
 2025-07-18 06:00:00
             Desc:Overcast Clouds
             Temp:30.4°C
             Cloudy:100%
-            Precipitation:0%
+            Precipitation:3.0%
             Humidity:59
-            Wind speed:6.73m/s
+            Wind speed:6.46m/s
 2025-07-18 09:00:00
-            Desc:Overcast Clouds
-            Temp:31.6°C
+            Desc:Light Rain
+            Temp:32.1°C
             Cloudy:100%
-            Precipitation:10.0%
+            Precipitation:39.0%
             Humidity:51
-            Wind speed:5.46m/s
+            Wind speed:5.82m/s
 2025-07-18 12:00:00
             Desc:Overcast Clouds
-            Temp:31.4°C
+            Temp:30.9°C
             Cloudy:100%
-            Precipitation:0%
-            Humidity:54
-            Wind speed:4.25m/s
+            Precipitation:31.0%
+            Humidity:56
+            Wind speed:3.98m/s
 2025-07-18 15:00:00
             Desc:Overcast Clouds
-            Temp:28.8°C
-            Cloudy:95%
-            Precipitation:1.0%
-            Humidity:68
-            Wind speed:2.67m/s
+            Temp:28.5°C
+            Cloudy:100%
+            Precipitation:4.0%
+            Humidity:69
+            Wind speed:2.79m/s
 2025-07-18 18:00:00
-            Desc:Broken Clouds
-            Temp:27.4°C
-            Cloudy:62%
-            Precipitation:0%
-            Humidity:74
-            Wind speed:2.62m/s
-2025-07-18 21:00:00
             Desc:Overcast Clouds
-            Temp:26.4°C
-            Cloudy:88%
+            Temp:26.9°C
+            Cloudy:100%
             Precipitation:0%
-            Humidity:76
+            Humidity:77
             Wind speed:2.97m/s
+2025-07-18 21:00:00
+            Desc:Few Clouds
+            Temp:26.1°C
+            Cloudy:15%
+            Precipitation:0%
+            Humidity:80
+            Wind speed:2.12m/s
 
 
 2025-07-19 00:00:00
-            Desc:Overcast Clouds
-            Temp:25.6°C
-            Cloudy:91%
+            Desc:Few Clouds
+            Temp:25.3°C
+            Cloudy:21%
             Precipitation:0%
-            Humidity:78
-            Wind speed:3.08m/s
+            Humidity:81
+            Wind speed:2.99m/s
 2025-07-19 03:00:00
-            Desc:Broken Clouds
+            Desc:Scattered Clouds
             Temp:27.6°C
-            Cloudy:72%
+            Cloudy:28%
             Precipitation:0%
-            Humidity:67
-            Wind speed:5.4m/s
+            Humidity:66
+            Wind speed:4.93m/s
 2025-07-19 06:00:00
-            Desc:Broken Clouds
-            Temp:31.2°C
-            Cloudy:54%
+            Desc:Scattered Clouds
+            Temp:31.3°C
+            Cloudy:30%
             Precipitation:0%
-            Humidity:52
-            Wind speed:4.83m/s
+            Humidity:53
+            Wind speed:4.95m/s
 2025-07-19 09:00:00
             Desc:Scattered Clouds
-            Temp:34.4°C
+            Temp:33.9°C
             Cloudy:46%
             Precipitation:0%
-            Humidity:38
+            Humidity:41
             Wind speed:4.3m/s
 2025-07-19 12:00:00
             Desc:Broken Clouds
