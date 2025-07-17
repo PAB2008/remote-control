@@ -3,7 +3,7 @@ Akola,
 
 2025-07-17 06:00:00
             Desc:Light Rain
-            Temp:28.4°C
+            Temp:28.5°C
             Cloudy:100%
             Precipitation:28.000000000000004%
             Humidity:68
