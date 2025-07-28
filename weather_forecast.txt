@@ -7,51 +7,51 @@ Akola,
             Cloudy:100%
             Precipitation:20.0%
             Humidity:76
-            Wind speed:5.44m/s
+            Wind speed:4.62m/s
 2025-07-28 15:00:00
             Desc:Light Rain
             Temp:26.8°C
             Cloudy:100%
-            Precipitation:34.0%
+            Precipitation:38.0%
             Humidity:79
-            Wind speed:3.99m/s
+            Wind speed:3.88m/s
 2025-07-28 18:00:00
             Desc:Overcast Clouds
-            Temp:26.2°C
+            Temp:26.0°C
             Cloudy:100%
-            Precipitation:0%
-            Humidity:78
-            Wind speed:6.72m/s
+            Precipitation:3.0%
+            Humidity:82
+            Wind speed:4.85m/s
 2025-07-28 21:00:00
-            Desc:Overcast Clouds
+            Desc:Light Rain
             Temp:25.1°C
             Cloudy:100%
-            Precipitation:0%
-            Humidity:79
-            Wind speed:7.56m/s
+            Precipitation:48.0%
+            Humidity:82
+            Wind speed:6.49m/s
 
 
 2025-07-29 00:00:00
-            Desc:Overcast Clouds
-            Temp:25.0°C
+            Desc:Light Rain
+            Temp:24.6°C
             Cloudy:100%
-            Precipitation:0%
-            Humidity:78
-            Wind speed:6.91m/s
+            Precipitation:87.0%
+            Humidity:83
+            Wind speed:6.53m/s
 2025-07-29 03:00:00
             Desc:Light Rain
-            Temp:25.2°C
+            Temp:25.0°C
             Cloudy:100%
-            Precipitation:37.0%
-            Humidity:80
-            Wind speed:6.28m/s
+            Precipitation:74.0%
+            Humidity:82
+            Wind speed:6.17m/s
 2025-07-29 06:00:00
-            Desc:Overcast Clouds
-            Temp:25.7°C
+            Desc:Light Rain
+            Temp:25.6°C
             Cloudy:100%
-            Precipitation:33.0%
-            Humidity:80
-            Wind speed:6.15m/s
+            Precipitation:60.0%
+            Humidity:79
+            Wind speed:7.18m/s
 2025-07-29 09:00:00
             Desc:Light Rain
             Temp:26.3°C
