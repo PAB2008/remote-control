@@ -3,7 +3,7 @@ Akola,
 
 2025-07-31 12:00:00
             Desc:Broken Clouds
-            Temp:30.9°C
+            Temp:31.0°C
             Cloudy:81%
             Precipitation:0%
             Humidity:59
