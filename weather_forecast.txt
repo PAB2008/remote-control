@@ -10,7 +10,7 @@ Akola,
             Wind speed:3.25m/s
 2025-08-10 09:00:00
             Desc:Light Rain
-            Temp:30.9°C
+            Temp:30.8°C
             Cloudy:81%
             Precipitation:20.0%
             Humidity:55
