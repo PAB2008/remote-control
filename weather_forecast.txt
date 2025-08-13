@@ -1,57 +1,50 @@
 Akola,
 
 
-2025-08-13 12:00:00
-            Desc:Light Rain
-            Temp:30.6°C
-            Cloudy:100%
-            Precipitation:20.0%
-            Humidity:60
-            Wind speed:4.78m/s
 2025-08-13 15:00:00
-            Desc:Moderate Rain
+            Desc:Light Rain
             Temp:29.5°C
             Cloudy:100%
             Precipitation:100%
             Humidity:66
-            Wind speed:3.77m/s
+            Wind speed:3.86m/s
 2025-08-13 18:00:00
             Desc:Light Rain
-            Temp:28.0°C
+            Temp:28.1°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:74
-            Wind speed:2.93m/s
+            Humidity:72
+            Wind speed:3.4m/s
 2025-08-13 21:00:00
-            Desc:Moderate Rain
-            Temp:25.8°C
+            Desc:Light Rain
+            Temp:25.4°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:86
-            Wind speed:5.54m/s
+            Humidity:87
+            Wind speed:5.77m/s
 
 
 2025-08-14 00:00:00
             Desc:Light Rain
-            Temp:24.6°C
+            Temp:24.3°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:92
-            Wind speed:5.78m/s
+            Humidity:93
+            Wind speed:5.83m/s
 2025-08-14 03:00:00
             Desc:Light Rain
             Temp:26.4°C
             Cloudy:100%
-            Precipitation:100%
+            Precipitation:38.0%
             Humidity:83
-            Wind speed:5.86m/s
+            Wind speed:5.56m/s
 2025-08-14 06:00:00
             Desc:Light Rain
-            Temp:29.4°C
+            Temp:28.7°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:69
-            Wind speed:2.48m/s
+            Humidity:74
+            Wind speed:4.25m/s
 2025-08-14 09:00:00
             Desc:Light Rain
             Temp:29.8°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:100%
             Humidity:88
             Wind speed:4.28m/s
+2025-08-18 12:00:00
+            Desc:Light Rain
+            Temp:26.1°C
+            Cloudy:100%
+            Precipitation:100%
+            Humidity:86
+            Wind speed:3.87m/s
