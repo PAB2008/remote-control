@@ -1,13 +1,6 @@
 Akola,
 
 
-2025-08-18 12:00:00
-            Desc:Moderate Rain
-            Temp:29.4°C
-            Cloudy:91%
-            Precipitation:100%
-            Humidity:74
-            Wind speed:2.46m/s
 2025-08-18 15:00:00
             Desc:Moderate Rain
             Temp:28.7°C
@@ -54,240 +47,247 @@ Akola,
             Wind speed:3.96m/s
 2025-08-19 09:00:00
             Desc:Moderate Rain
-            Temp:30.4°C
+            Temp:30.0°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:70
-            Wind speed:2.02m/s
+            Humidity:73
+            Wind speed:3.99m/s
 2025-08-19 12:00:00
-            Desc:Heavy Intensity Rain
-            Temp:29.9°C
+            Desc:Moderate Rain
+            Temp:27.9°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:75
-            Wind speed:1.1m/s
+            Humidity:83
+            Wind speed:3.68m/s
 2025-08-19 15:00:00
             Desc:Moderate Rain
-            Temp:25.6°C
+            Temp:26.2°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:90
-            Wind speed:6.5m/s
+            Humidity:87
+            Wind speed:4.76m/s
 2025-08-19 18:00:00
             Desc:Moderate Rain
-            Temp:24.8°C
+            Temp:24.5°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:91
-            Wind speed:6.87m/s
+            Humidity:93
+            Wind speed:5.21m/s
 2025-08-19 21:00:00
             Desc:Light Rain
-            Temp:24.0°C
+            Temp:24.4°C
             Cloudy:100%
-            Precipitation:100%
-            Humidity:89
-            Wind speed:5.49m/s
+            Precipitation:91.0%
+            Humidity:95
+            Wind speed:3.83m/s
 
 
 2025-08-20 00:00:00
             Desc:Light Rain
-            Temp:23.9°C
+            Temp:24.2°C
             Cloudy:100%
-            Precipitation:100%
-            Humidity:92
-            Wind speed:3.65m/s
+            Precipitation:93.0%
+            Humidity:94
+            Wind speed:6m/s
 2025-08-20 03:00:00
             Desc:Light Rain
-            Temp:24.9°C
+            Temp:24.4°C
             Cloudy:100%
-            Precipitation:20.0%
-            Humidity:88
-            Wind speed:3.79m/s
+            Precipitation:64.0%
+            Humidity:92
+            Wind speed:4.48m/s
 2025-08-20 06:00:00
-            Desc:Overcast Clouds
-            Temp:26.0°C
+            Desc:Light Rain
+            Temp:25.5°C
             Cloudy:100%
-            Precipitation:0%
-            Humidity:82
-            Wind speed:4.63m/s
+            Precipitation:42.0%
+            Humidity:86
+            Wind speed:4.21m/s
 2025-08-20 09:00:00
             Desc:Light Rain
-            Temp:27.7°C
+            Temp:26.0°C
             Cloudy:100%
-            Precipitation:37.0%
-            Humidity:77
-            Wind speed:4.47m/s
+            Precipitation:26.0%
+            Humidity:84
+            Wind speed:3.43m/s
 2025-08-20 12:00:00
             Desc:Light Rain
-            Temp:28.4°C
+            Temp:27.3°C
             Cloudy:100%
-            Precipitation:76.0%
-            Humidity:77
-            Wind speed:5.38m/s
+            Precipitation:100%
+            Humidity:83
+            Wind speed:4.21m/s
 2025-08-20 15:00:00
             Desc:Light Rain
-            Temp:25.7°C
-            Cloudy:100%
+            Temp:25.5°C
+            Cloudy:99%
             Precipitation:100%
-            Humidity:87
-            Wind speed:3.65m/s
+            Humidity:86
+            Wind speed:4.69m/s
 2025-08-20 18:00:00
-            Desc:Light Rain
-            Temp:24.8°C
+            Desc:Overcast Clouds
+            Temp:24.4°C
             Cloudy:100%
-            Precipitation:100%
-            Humidity:89
-            Wind speed:4.47m/s
+            Precipitation:87.0%
+            Humidity:90
+            Wind speed:4.73m/s
 2025-08-20 21:00:00
-            Desc:Light Rain
-            Temp:24.0°C
-            Cloudy:100%
-            Precipitation:20.0%
-            Humidity:88
-            Wind speed:6.15m/s
+            Desc:Overcast Clouds
+            Temp:24.1°C
+            Cloudy:92%
+            Precipitation:0%
+            Humidity:89
+            Wind speed:5.47m/s
 
 
 2025-08-21 00:00:00
             Desc:Overcast Clouds
-            Temp:23.8°C
+            Temp:24.3°C
+            Cloudy:96%
+            Precipitation:0%
+            Humidity:88
+            Wind speed:4.12m/s
+2025-08-21 03:00:00
+            Desc:Overcast Clouds
+            Temp:26.0°C
             Cloudy:100%
             Precipitation:0%
-            Humidity:89
-            Wind speed:4.15m/s
-2025-08-21 03:00:00
-            Desc:Light Rain
-            Temp:26.2°C
-            Cloudy:100%
-            Precipitation:20.0%
-            Humidity:80
-            Wind speed:5.54m/s
+            Humidity:81
+            Wind speed:5.45m/s
 2025-08-21 06:00:00
             Desc:Light Rain
-            Temp:29.1°C
-            Cloudy:100%
-            Precipitation:20.0%
-            Humidity:69
-            Wind speed:5.41m/s
+            Temp:28.8°C
+            Cloudy:99%
+            Precipitation:36.0%
+            Humidity:71
+            Wind speed:6.49m/s
 2025-08-21 09:00:00
             Desc:Light Rain
-            Temp:30.0°C
-            Cloudy:100%
+            Temp:30.6°C
+            Cloudy:75%
             Precipitation:100%
-            Humidity:66
-            Wind speed:6.61m/s
+            Humidity:64
+            Wind speed:6.58m/s
 2025-08-21 12:00:00
             Desc:Light Rain
-            Temp:29.2°C
-            Cloudy:100%
+            Temp:29.7°C
+            Cloudy:70%
             Precipitation:100%
-            Humidity:71
-            Wind speed:5.78m/s
+            Humidity:70
+            Wind speed:6.52m/s
 2025-08-21 15:00:00
             Desc:Light Rain
-            Temp:26.3°C
-            Cloudy:85%
+            Temp:26.2°C
+            Cloudy:92%
             Precipitation:100%
-            Humidity:82
-            Wind speed:4.33m/s
+            Humidity:83
+            Wind speed:4.59m/s
 2025-08-21 18:00:00
-            Desc:Light Rain
-            Temp:25.0°C
-            Cloudy:89%
-            Precipitation:100%
+            Desc:Overcast Clouds
+            Temp:24.9°C
+            Cloudy:96%
+            Precipitation:80.0%
             Humidity:87
-            Wind speed:4.02m/s
+            Wind speed:3.69m/s
 2025-08-21 21:00:00
             Desc:Overcast Clouds
-            Temp:24.2°C
+            Temp:23.9°C
             Cloudy:100%
             Precipitation:0%
             Humidity:88
-            Wind speed:4.3m/s
+            Wind speed:3.14m/s
 
 
 2025-08-22 00:00:00
             Desc:Overcast Clouds
-            Temp:23.6°C
+            Temp:23.2°C
             Cloudy:98%
             Precipitation:0%
-            Humidity:90
-            Wind speed:3.11m/s
+            Humidity:88
+            Wind speed:2.89m/s
 2025-08-22 03:00:00
-            Desc:Overcast Clouds
-            Temp:25.6°C
-            Cloudy:100%
+            Desc:Broken Clouds
+            Temp:25.7°C
+            Cloudy:73%
             Precipitation:0%
-            Humidity:82
-            Wind speed:4.62m/s
+            Humidity:78
+            Wind speed:5.08m/s
 2025-08-22 06:00:00
             Desc:Light Rain
-            Temp:29.1°C
-            Cloudy:99%
+            Temp:27.8°C
+            Cloudy:83%
             Precipitation:20.0%
-            Humidity:68
-            Wind speed:7.46m/s
+            Humidity:71
+            Wind speed:6.76m/s
 2025-08-22 09:00:00
             Desc:Light Rain
-            Temp:30.2°C
+            Temp:29.8°C
             Cloudy:99%
-            Precipitation:100%
+            Precipitation:33.0%
             Humidity:64
-            Wind speed:8.47m/s
+            Wind speed:8.01m/s
 2025-08-22 12:00:00
             Desc:Light Rain
-            Temp:28.4°C
+            Temp:29.0°C
             Cloudy:100%
-            Precipitation:100%
-            Humidity:72
-            Wind speed:6.3m/s
+            Precipitation:25.0%
+            Humidity:70
+            Wind speed:5.97m/s
 2025-08-22 15:00:00
             Desc:Light Rain
-            Temp:25.8°C
-            Cloudy:100%
-            Precipitation:100%
-            Humidity:84
-            Wind speed:4.45m/s
+            Temp:26.3°C
+            Cloudy:98%
+            Precipitation:33.0%
+            Humidity:79
+            Wind speed:5.55m/s
 2025-08-22 18:00:00
-            Desc:Light Rain
-            Temp:25.0°C
-            Cloudy:100%
-            Precipitation:100%
-            Humidity:84
-            Wind speed:4.72m/s
-2025-08-22 21:00:00
             Desc:Overcast Clouds
-            Temp:23.9°C
-            Cloudy:93%
+            Temp:25.1°C
+            Cloudy:89%
             Precipitation:0%
-            Humidity:84
-            Wind speed:5.4m/s
+            Humidity:79
+            Wind speed:6.45m/s
+2025-08-22 21:00:00
+            Desc:Broken Clouds
+            Temp:23.9°C
+            Cloudy:73%
+            Precipitation:0%
+            Humidity:82
+            Wind speed:6.59m/s
 
 
 2025-08-23 00:00:00
             Desc:Overcast Clouds
-            Temp:23.7°C
-            Cloudy:97%
+            Temp:24.3°C
+            Cloudy:86%
             Precipitation:0%
-            Humidity:86
-            Wind speed:4.22m/s
+            Humidity:80
+            Wind speed:6.17m/s
 2025-08-23 03:00:00
             Desc:Overcast Clouds
-            Temp:25.8°C
+            Temp:24.8°C
             Cloudy:100%
             Precipitation:0%
-            Humidity:79
-            Wind speed:5.14m/s
+            Humidity:83
+            Wind speed:4.66m/s
 2025-08-23 06:00:00
             Desc:Overcast Clouds
-            Temp:26.9°C
+            Temp:26.4°C
             Cloudy:100%
             Precipitation:0%
-            Humidity:75
-            Wind speed:5.59m/s
+            Humidity:78
+            Wind speed:6.84m/s
 2025-08-23 09:00:00
             Desc:Light Rain
-            Temp:29.3°C
+            Temp:27.4°C
+            Cloudy:100%
+            Precipitation:43.0%
+            Humidity:74
+            Wind speed:7.08m/s
+2025-08-23 12:00:00
+            Desc:Light Rain
+            Temp:25.4°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:66
-            Wind speed:7.77m/s
+            Humidity:84
+            Wind speed:6.38m/s
