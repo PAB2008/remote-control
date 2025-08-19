@@ -3,7 +3,7 @@ Akola,
 
 2025-08-19 15:00:00
             Desc:Heavy Intensity Rain
-            Temp:26.1°C
+            Temp:26.0°C
             Cloudy:100%
             Precipitation:100%
             Humidity:90
