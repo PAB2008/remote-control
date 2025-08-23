@@ -4,54 +4,54 @@ Akola,
 2025-08-23 12:00:00
             Desc:Moderate Rain
             Temp:27.1°C
-            Cloudy:90%
+            Cloudy:91%
             Precipitation:100%
             Humidity:79
-            Wind speed:7.75m/s
+            Wind speed:7.16m/s
 2025-08-23 15:00:00
             Desc:Moderate Rain
             Temp:26.4°C
-            Cloudy:93%
+            Cloudy:94%
             Precipitation:100%
             Humidity:82
-            Wind speed:5.44m/s
+            Wind speed:5.31m/s
 2025-08-23 18:00:00
             Desc:Light Rain
-            Temp:25.0°C
+            Temp:25.1°C
             Cloudy:97%
             Precipitation:100%
-            Humidity:84
-            Wind speed:5.49m/s
+            Humidity:83
+            Wind speed:5.33m/s
 2025-08-23 21:00:00
             Desc:Overcast Clouds
-            Temp:23.2°C
-            Cloudy:100%
+            Temp:23.1°C
+            Cloudy:99%
             Precipitation:0%
-            Humidity:86
-            Wind speed:4.75m/s
+            Humidity:88
+            Wind speed:3.96m/s
 
 
 2025-08-24 00:00:00
             Desc:Overcast Clouds
-            Temp:23.0°C
-            Cloudy:99%
-            Precipitation:0%
-            Humidity:87
-            Wind speed:4.08m/s
-2025-08-24 03:00:00
-            Desc:Overcast Clouds
-            Temp:24.0°C
+            Temp:22.9°C
             Cloudy:100%
             Precipitation:0%
-            Humidity:83
-            Wind speed:5.33m/s
+            Humidity:88
+            Wind speed:3.39m/s
+2025-08-24 03:00:00
+            Desc:Overcast Clouds
+            Temp:24.9°C
+            Cloudy:98%
+            Precipitation:0%
+            Humidity:81
+            Wind speed:6.19m/s
 2025-08-24 06:00:00
             Desc:Light Rain
-            Temp:27.3°C
-            Cloudy:99%
-            Precipitation:20.0%
-            Humidity:72
-            Wind speed:7.45m/s
+            Temp:26.7°C
+            Cloudy:98%
+            Precipitation:33.0%
+            Humidity:75
+            Wind speed:6.58m/s
 2025-08-24 09:00:00
             Desc:Light Rain
             Temp:25.9°C
