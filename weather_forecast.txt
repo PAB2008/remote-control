@@ -1,57 +1,50 @@
 Akola,
 
 
-2025-09-13 06:00:00
-            Desc:Light Rain
-            Temp:28.7°C
-            Cloudy:100%
-            Precipitation:100%
-            Humidity:73
-            Wind speed:4m/s
 2025-09-13 09:00:00
             Desc:Light Rain
             Temp:29.2°C
             Cloudy:100%
             Precipitation:100%
             Humidity:71
-            Wind speed:2.99m/s
+            Wind speed:3.28m/s
 2025-09-13 12:00:00
             Desc:Light Rain
             Temp:28.9°C
             Cloudy:100%
             Precipitation:100%
             Humidity:76
-            Wind speed:3.01m/s
+            Wind speed:2.9m/s
 2025-09-13 15:00:00
-            Desc:Moderate Rain
-            Temp:26.2°C
+            Desc:Light Rain
+            Temp:26.3°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:86
-            Wind speed:2.96m/s
+            Humidity:87
+            Wind speed:1.34m/s
 2025-09-13 18:00:00
             Desc:Moderate Rain
-            Temp:25.0°C
+            Temp:24.6°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:90
-            Wind speed:3.47m/s
+            Humidity:93
+            Wind speed:1.16m/s
 2025-09-13 21:00:00
             Desc:Light Rain
-            Temp:24.4°C
+            Temp:25.0°C
             Cloudy:100%
-            Precipitation:87.0%
-            Humidity:93
-            Wind speed:3.17m/s
+            Precipitation:81.0%
+            Humidity:90
+            Wind speed:1.45m/s
 
 
 2025-09-14 00:00:00
             Desc:Light Rain
-            Temp:23.9°C
+            Temp:24.3°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:94
-            Wind speed:2.82m/s
+            Humidity:93
+            Wind speed:2.39m/s
 2025-09-14 03:00:00
             Desc:Light Rain
             Temp:26.6°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:49.0%
             Humidity:89
             Wind speed:4.86m/s
+2025-09-18 06:00:00
+            Desc:Overcast Clouds
+            Temp:26.7°C
+            Cloudy:97%
+            Precipitation:30.0%
+            Humidity:79
+            Wind speed:4.94m/s
