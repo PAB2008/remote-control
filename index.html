@@ -1,13 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style>
-body {
-  display: grid;
-  place-items: center;
-  /*height: 100vh; /* Ensures the body takes up the full viewport height */
-}
-</style>
     <title>QR-Code Generator</title>
 <body>
 This is a text
@@ -18,14 +11,25 @@ This is a text
 <a href="processes.txt" download="processes file">
     <div>Download processes file</div>
 </a>
-<a href="weather_forecast.txt" download="weather forecast file">
-    <div>Download forecast file</div>
-</a>
 <a href="img sent.png" download="image that is sent">
     <img src="img sent.png">
     <div>Image sent to you</div>
 </a>
-<input>enter something</input>
 
+     <input type="text" id="username" name="username">
+<button onclick="">
+    hello
+</button>
+ <input type="checkbox" id="check" name="username">
+
+<form action="/Final" method="post" enctype="multipart/form-data">
+    <input type="file" name="upload_file">
+    <input type="submit" value="Upload to GitHub">
+</form>
+
+<form action="https://example.com/submit" method="POST">
+  <textarea name="text" rows="10" cols="50"></textarea><br>
+  <input type="submit" value="Submit">
+</form>
 </body>
 </html>
