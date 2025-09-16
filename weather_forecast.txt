@@ -7,51 +7,51 @@ Akola,
             Cloudy:100%
             Precipitation:100%
             Humidity:86
-            Wind speed:2.9m/s
+            Wind speed:1.98m/s
 2025-09-16 09:00:00
-            Desc:Moderate Rain
+            Desc:Light Rain
             Temp:26.2°C
             Cloudy:100%
-            Precipitation:100%
+            Precipitation:94.0%
             Humidity:85
-            Wind speed:1.6m/s
+            Wind speed:3.42m/s
 2025-09-16 12:00:00
-            Desc:Light Rain
-            Temp:26.0°C
-            Cloudy:100%
-            Precipitation:100%
-            Humidity:87
-            Wind speed:1.78m/s
-2025-09-16 15:00:00
-            Desc:Light Rain
-            Temp:25.5°C
-            Cloudy:100%
-            Precipitation:49.0%
+            Desc:Overcast Clouds
+            Temp:25.7°C
+            Cloudy:99%
+            Precipitation:83.0%
             Humidity:88
-            Wind speed:1.03m/s
+            Wind speed:1.93m/s
+2025-09-16 15:00:00
+            Desc:Overcast Clouds
+            Temp:25.0°C
+            Cloudy:100%
+            Precipitation:1.0%
+            Humidity:90
+            Wind speed:1.62m/s
 2025-09-16 18:00:00
             Desc:Light Rain
             Temp:24.9°C
             Cloudy:100%
-            Precipitation:94.0%
-            Humidity:90
-            Wind speed:2m/s
+            Precipitation:21.0%
+            Humidity:91
+            Wind speed:0.93m/s
 2025-09-16 21:00:00
             Desc:Light Rain
-            Temp:24.2°C
+            Temp:24.9°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:92
-            Wind speed:2.49m/s
+            Humidity:89
+            Wind speed:0.75m/s
 
 
 2025-09-17 00:00:00
             Desc:Light Rain
-            Temp:23.0°C
+            Temp:24.5°C
             Cloudy:100%
             Precipitation:100%
-            Humidity:95
-            Wind speed:2.5m/s
+            Humidity:90
+            Wind speed:2.21m/s
 2025-09-17 03:00:00
             Desc:Light Rain
             Temp:25.0°C
