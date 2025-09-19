@@ -4,54 +4,54 @@ Akola,
 2025-09-19 12:00:00
             Desc:Light Rain
             Temp:30.0°C
-            Cloudy:99%
+            Cloudy:93%
             Precipitation:100%
             Humidity:72
-            Wind speed:3m/s
+            Wind speed:2.96m/s
 2025-09-19 15:00:00
             Desc:Light Rain
             Temp:29.0°C
-            Cloudy:95%
-            Precipitation:100%
+            Cloudy:92%
+            Precipitation:87.0%
             Humidity:76
-            Wind speed:2.59m/s
+            Wind speed:2.65m/s
 2025-09-19 18:00:00
             Desc:Light Rain
-            Temp:27.5°C
-            Cloudy:95%
-            Precipitation:95.0%
+            Temp:27.4°C
+            Cloudy:94%
+            Precipitation:100%
             Humidity:81
-            Wind speed:2.29m/s
+            Wind speed:2.31m/s
 2025-09-19 21:00:00
             Desc:Overcast Clouds
-            Temp:25.4°C
-            Cloudy:100%
-            Precipitation:2.0%
+            Temp:25.3°C
+            Cloudy:93%
+            Precipitation:0%
             Humidity:88
-            Wind speed:1.7m/s
+            Wind speed:2.21m/s
 
 
 2025-09-20 00:00:00
             Desc:Overcast Clouds
-            Temp:24.3°C
-            Cloudy:97%
+            Temp:24.5°C
+            Cloudy:93%
             Precipitation:0%
-            Humidity:91
-            Wind speed:2.92m/s
+            Humidity:90
+            Wind speed:2.71m/s
 2025-09-20 03:00:00
-            Desc:Overcast Clouds
-            Temp:26.7°C
-            Cloudy:98%
+            Desc:Broken Clouds
+            Temp:26.8°C
+            Cloudy:77%
             Precipitation:0%
-            Humidity:84
-            Wind speed:4.32m/s
+            Humidity:82
+            Wind speed:3.34m/s
 2025-09-20 06:00:00
-            Desc:Overcast Clouds
-            Temp:30.4°C
-            Cloudy:99%
+            Desc:Broken Clouds
+            Temp:30.7°C
+            Cloudy:72%
             Precipitation:0%
-            Humidity:68
-            Wind speed:4.72m/s
+            Humidity:66
+            Wind speed:3.72m/s
 2025-09-20 09:00:00
             Desc:Light Rain
             Temp:31.8°C
