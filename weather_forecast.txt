@@ -1,57 +1,50 @@
 Akola,
 
 
-2025-10-13 12:00:00
-            Desc:Clear Sky
-            Temp:28.1°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:49
-            Wind speed:3.3m/s
 2025-10-13 15:00:00
             Desc:Clear Sky
             Temp:26.6°C
             Cloudy:0%
             Precipitation:0%
             Humidity:54
-            Wind speed:3.29m/s
+            Wind speed:2.96m/s
 2025-10-13 18:00:00
             Desc:Clear Sky
             Temp:24.2°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:63
-            Wind speed:0.57m/s
+            Humidity:61
+            Wind speed:1.14m/s
 2025-10-13 21:00:00
             Desc:Clear Sky
             Temp:21.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:71
-            Wind speed:0.79m/s
+            Humidity:70
+            Wind speed:0.67m/s
 
 
 2025-10-14 00:00:00
             Desc:Clear Sky
-            Temp:20.4°C
+            Temp:20.6°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:75
-            Wind speed:1.13m/s
+            Humidity:71
+            Wind speed:1.56m/s
 2025-10-14 03:00:00
             Desc:Clear Sky
             Temp:24.0°C
-            Cloudy:2%
+            Cloudy:4%
             Precipitation:0%
             Humidity:62
-            Wind speed:1.98m/s
+            Wind speed:2.29m/s
 2025-10-14 06:00:00
             Desc:Clear Sky
-            Temp:28.2°C
-            Cloudy:1%
+            Temp:28.4°C
+            Cloudy:3%
             Precipitation:0%
-            Humidity:55
-            Wind speed:2.05m/s
+            Humidity:53
+            Wind speed:2.01m/s
 2025-10-14 09:00:00
             Desc:Clear Sky
             Temp:30.6°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:75.0%
             Humidity:52
             Wind speed:2.67m/s
+2025-10-18 12:00:00
+            Desc:Light Rain
+            Temp:28.6°C
+            Cloudy:63%
+            Precipitation:67.0%
+            Humidity:66
+            Wind speed:3.7m/s
