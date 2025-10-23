@@ -1,57 +1,50 @@
 Akola,
 
 
-2025-10-23 18:00:00
-            Desc:Overcast Clouds
-            Temp:27.1°C
-            Cloudy:85%
-            Precipitation:0%
-            Humidity:65
-            Wind speed:3.36m/s
 2025-10-23 21:00:00
             Desc:Scattered Clouds
-            Temp:25.4°C
+            Temp:25.0°C
             Cloudy:37%
             Precipitation:0%
             Humidity:71
-            Wind speed:3.35m/s
+            Wind speed:3.53m/s
 
 
 2025-10-24 00:00:00
-            Desc:Clear Sky
-            Temp:23.3°C
-            Cloudy:4%
+            Desc:Few Clouds
+            Temp:24.2°C
+            Cloudy:21%
             Precipitation:0%
-            Humidity:76
-            Wind speed:3.19m/s
+            Humidity:75
+            Wind speed:3.29m/s
 2025-10-24 03:00:00
             Desc:Clear Sky
-            Temp:26.4°C
-            Cloudy:3%
+            Temp:26.5°C
+            Cloudy:0%
             Precipitation:0%
             Humidity:64
-            Wind speed:4.31m/s
+            Wind speed:4.89m/s
 2025-10-24 06:00:00
             Desc:Clear Sky
-            Temp:31.0°C
-            Cloudy:2%
+            Temp:30.9°C
+            Cloudy:0%
             Precipitation:0%
-            Humidity:49
-            Wind speed:5.16m/s
+            Humidity:53
+            Wind speed:5.28m/s
 2025-10-24 09:00:00
-            Desc:Few Clouds
-            Temp:32.5°C
-            Cloudy:24%
-            Precipitation:0%
+            Desc:Light Rain
+            Temp:32.6°C
+            Cloudy:56%
+            Precipitation:28.000000000000004%
             Humidity:46
-            Wind speed:4.93m/s
+            Wind speed:5.25m/s
 2025-10-24 12:00:00
             Desc:Broken Clouds
             Temp:29.5°C
-            Cloudy:59%
+            Cloudy:67%
             Precipitation:0%
-            Humidity:53
-            Wind speed:4.56m/s
+            Humidity:56
+            Wind speed:4.58m/s
 2025-10-24 15:00:00
             Desc:Scattered Clouds
             Temp:26.8°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:100%
             Humidity:85
             Wind speed:2.15m/s
+2025-10-28 18:00:00
+            Desc:Overcast Clouds
+            Temp:23.3°C
+            Cloudy:99%
+            Precipitation:73.0%
+            Humidity:85
+            Wind speed:2.42m/s
