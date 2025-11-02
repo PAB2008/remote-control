@@ -7,51 +7,51 @@ Akola,
             Cloudy:24%
             Precipitation:0%
             Humidity:60
-            Wind speed:3.23m/s
+            Wind speed:3.67m/s
 2025-11-02 09:00:00
-            Desc:Scattered Clouds
+            Desc:Light Rain
             Temp:30.3°C
-            Cloudy:42%
-            Precipitation:0%
+            Cloudy:43%
+            Precipitation:26.0%
             Humidity:58
-            Wind speed:4.53m/s
+            Wind speed:4.65m/s
 2025-11-02 12:00:00
             Desc:Light Rain
-            Temp:28.7°C
-            Cloudy:67%
-            Precipitation:35.0%
-            Humidity:66
-            Wind speed:4.9m/s
+            Temp:28.5°C
+            Cloudy:68%
+            Precipitation:100%
+            Humidity:68
+            Wind speed:4.06m/s
 2025-11-02 15:00:00
             Desc:Light Rain
-            Temp:27.0°C
-            Cloudy:100%
-            Precipitation:20.0%
-            Humidity:72
-            Wind speed:2.46m/s
-2025-11-02 18:00:00
-            Desc:Overcast Clouds
-            Temp:26.1°C
-            Cloudy:91%
-            Precipitation:4.0%
-            Humidity:75
-            Wind speed:1.93m/s
-2025-11-02 21:00:00
-            Desc:Overcast Clouds
-            Temp:25.4°C
-            Cloudy:100%
-            Precipitation:4.0%
+            Temp:26.3°C
+            Cloudy:57%
+            Precipitation:36.0%
             Humidity:76
-            Wind speed:3.17m/s
+            Wind speed:2.48m/s
+2025-11-02 18:00:00
+            Desc:Scattered Clouds
+            Temp:25.4°C
+            Cloudy:37%
+            Precipitation:0%
+            Humidity:78
+            Wind speed:1.94m/s
+2025-11-02 21:00:00
+            Desc:Clear Sky
+            Temp:24.1°C
+            Cloudy:5%
+            Precipitation:0%
+            Humidity:82
+            Wind speed:3.2m/s
 
 
 2025-11-03 00:00:00
-            Desc:Overcast Clouds
-            Temp:24.2°C
-            Cloudy:88%
+            Desc:Clear Sky
+            Temp:23.2°C
+            Cloudy:10%
             Precipitation:0%
-            Humidity:85
-            Wind speed:3.13m/s
+            Humidity:89
+            Wind speed:3.29m/s
 2025-11-03 03:00:00
             Desc:Scattered Clouds
             Temp:26.1°C
