@@ -1,13 +1,6 @@
 Akola,
 
 
-2025-11-25 15:00:00
-            Desc:Clear Sky
-            Temp:24.4°C
-            Cloudy:2%
-            Precipitation:0%
-            Humidity:54
-            Wind speed:3.85m/s
 2025-11-25 18:00:00
             Desc:Clear Sky
             Temp:23.9°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:35
             Wind speed:2.34m/s
+2025-11-30 15:00:00
+            Desc:Overcast Clouds
+            Temp:22.4°C
+            Cloudy:99%
+            Precipitation:0%
+            Humidity:41
+            Wind speed:1.7m/s
