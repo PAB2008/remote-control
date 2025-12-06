@@ -1,57 +1,50 @@
 Akola,
 
 
-2025-12-06 12:00:00
-            Desc:Overcast Clouds
-            Temp:24.2°C
-            Cloudy:91%
-            Precipitation:0%
-            Humidity:32
-            Wind speed:2.51m/s
 2025-12-06 15:00:00
             Desc:Overcast Clouds
             Temp:23.2°C
             Cloudy:91%
             Precipitation:0%
             Humidity:34
-            Wind speed:2.28m/s
+            Wind speed:2.75m/s
 2025-12-06 18:00:00
             Desc:Overcast Clouds
-            Temp:21.0°C
+            Temp:20.8°C
             Cloudy:94%
             Precipitation:0%
-            Humidity:38
-            Wind speed:1.76m/s
+            Humidity:39
+            Wind speed:1.49m/s
 2025-12-06 21:00:00
             Desc:Overcast Clouds
-            Temp:17.9°C
+            Temp:17.8°C
             Cloudy:100%
             Precipitation:0%
             Humidity:35
-            Wind speed:2.34m/s
+            Wind speed:2.26m/s
 
 
 2025-12-07 00:00:00
             Desc:Overcast Clouds
-            Temp:16.4°C
-            Cloudy:100%
+            Temp:16.2°C
+            Cloudy:99%
             Precipitation:0%
-            Humidity:32
-            Wind speed:2.54m/s
+            Humidity:34
+            Wind speed:2.37m/s
 2025-12-07 03:00:00
             Desc:Overcast Clouds
-            Temp:18.9°C
-            Cloudy:100%
+            Temp:18.8°C
+            Cloudy:99%
             Precipitation:0%
-            Humidity:30
-            Wind speed:2.15m/s
+            Humidity:32
+            Wind speed:1.81m/s
 2025-12-07 06:00:00
             Desc:Overcast Clouds
-            Temp:25.2°C
-            Cloudy:100%
+            Temp:25.0°C
+            Cloudy:99%
             Precipitation:0%
-            Humidity:21
-            Wind speed:2.71m/s
+            Humidity:22
+            Wind speed:2.77m/s
 2025-12-07 09:00:00
             Desc:Overcast Clouds
             Temp:28.4°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:18
             Wind speed:1.24m/s
+2025-12-11 12:00:00
+            Desc:Clear Sky
+            Temp:24.3°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:26
+            Wind speed:1.45m/s
