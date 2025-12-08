@@ -1,57 +1,50 @@
 Akola,
 
 
-2025-12-08 12:00:00
-            Desc:Clear Sky
-            Temp:24.6°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:22
-            Wind speed:2.47m/s
 2025-12-08 15:00:00
             Desc:Clear Sky
             Temp:23.4°C
             Cloudy:0%
             Precipitation:0%
             Humidity:24
-            Wind speed:1.46m/s
+            Wind speed:1.26m/s
 2025-12-08 18:00:00
             Desc:Clear Sky
             Temp:21.0°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:28
-            Wind speed:2.19m/s
+            Humidity:27
+            Wind speed:2.75m/s
 2025-12-08 21:00:00
             Desc:Clear Sky
-            Temp:17.2°C
+            Temp:17.0°C
             Cloudy:0%
             Precipitation:0%
             Humidity:35
-            Wind speed:2.41m/s
+            Wind speed:2.12m/s
 
 
 2025-12-09 00:00:00
             Desc:Clear Sky
-            Temp:15.6°C
+            Temp:15.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:40
-            Wind speed:1.67m/s
+            Humidity:39
+            Wind speed:1.49m/s
 2025-12-09 03:00:00
             Desc:Clear Sky
-            Temp:19.5°C
+            Temp:19.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:33
-            Wind speed:1.78m/s
+            Humidity:32
+            Wind speed:1.52m/s
 2025-12-09 06:00:00
             Desc:Clear Sky
-            Temp:26.3°C
+            Temp:26.2°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:22
-            Wind speed:2.67m/s
+            Humidity:21
+            Wind speed:2.8m/s
 2025-12-09 09:00:00
             Desc:Clear Sky
             Temp:29.3°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:20
             Wind speed:1.9m/s
+2025-12-13 12:00:00
+            Desc:Clear Sky
+            Temp:25.0°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:27
+            Wind speed:2.29m/s
