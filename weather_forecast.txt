@@ -3,24 +3,24 @@ Akola,
 
 2025-12-09 15:00:00
             Desc:Clear Sky
-            Temp:24.0°C
+            Temp:21.7°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:24
+            Humidity:27
             Wind speed:2.3m/s
 2025-12-09 18:00:00
             Desc:Clear Sky
-            Temp:20.9°C
+            Temp:20.8°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:31
+            Humidity:30
             Wind speed:3.38m/s
 2025-12-09 21:00:00
             Desc:Clear Sky
-            Temp:17.0°C
+            Temp:18.6°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:39
+            Humidity:35
             Wind speed:2.22m/s
 
 
@@ -51,243 +51,243 @@ Akola,
             Cloudy:0%
             Precipitation:0%
             Humidity:18
-            Wind speed:1.87m/s
+            Wind speed:2.17m/s
 2025-12-10 12:00:00
             Desc:Clear Sky
-            Temp:24.0°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:28
-            Wind speed:0.79m/s
-2025-12-10 15:00:00
-            Desc:Clear Sky
-            Temp:20.9°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:29
-            Wind speed:0.77m/s
-2025-12-10 18:00:00
-            Desc:Clear Sky
-            Temp:18.6°C
+            Temp:23.7°C
             Cloudy:1%
             Precipitation:0%
-            Humidity:33
-            Wind speed:1.62m/s
+            Humidity:28
+            Wind speed:0.94m/s
+2025-12-10 15:00:00
+            Desc:Clear Sky
+            Temp:20.7°C
+            Cloudy:5%
+            Precipitation:0%
+            Humidity:29
+            Wind speed:1m/s
+2025-12-10 18:00:00
+            Desc:Clear Sky
+            Temp:18.4°C
+            Cloudy:5%
+            Precipitation:0%
+            Humidity:34
+            Wind speed:0.85m/s
 2025-12-10 21:00:00
             Desc:Clear Sky
             Temp:16.8°C
-            Cloudy:4%
+            Cloudy:3%
             Precipitation:0%
             Humidity:36
-            Wind speed:1.5m/s
+            Wind speed:1.57m/s
 
 
 2025-12-11 00:00:00
             Desc:Clear Sky
-            Temp:15.3°C
-            Cloudy:3%
+            Temp:15.5°C
+            Cloudy:2%
             Precipitation:0%
-            Humidity:38
-            Wind speed:1.52m/s
+            Humidity:37
+            Wind speed:2.17m/s
 2025-12-11 03:00:00
             Desc:Clear Sky
             Temp:19.2°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:31
-            Wind speed:1.86m/s
+            Humidity:32
+            Wind speed:1.74m/s
 2025-12-11 06:00:00
             Desc:Clear Sky
-            Temp:25.4°C
+            Temp:25.3°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:22
-            Wind speed:1.32m/s
+            Humidity:23
+            Wind speed:1.75m/s
 2025-12-11 09:00:00
             Desc:Clear Sky
-            Temp:28.3°C
+            Temp:28.0°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:17
-            Wind speed:1.06m/s
+            Humidity:18
+            Wind speed:0.99m/s
 2025-12-11 12:00:00
             Desc:Clear Sky
-            Temp:24.2°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:25
-            Wind speed:1.45m/s
-2025-12-11 15:00:00
-            Desc:Clear Sky
-            Temp:21.2°C
+            Temp:24.0°C
             Cloudy:0%
             Precipitation:0%
             Humidity:27
-            Wind speed:0.27m/s
+            Wind speed:1.55m/s
+2025-12-11 15:00:00
+            Desc:Clear Sky
+            Temp:21.1°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:28
+            Wind speed:0.89m/s
 2025-12-11 18:00:00
             Desc:Clear Sky
-            Temp:18.4°C
+            Temp:18.8°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:33
-            Wind speed:0.85m/s
+            Humidity:32
+            Wind speed:1.53m/s
 2025-12-11 21:00:00
             Desc:Clear Sky
-            Temp:16.9°C
+            Temp:16.8°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:36
-            Wind speed:0.82m/s
+            Humidity:37
+            Wind speed:0.36m/s
 
 
 2025-12-12 00:00:00
             Desc:Clear Sky
-            Temp:15.8°C
+            Temp:16.1°C
             Cloudy:0%
             Precipitation:0%
             Humidity:38
-            Wind speed:1.61m/s
+            Wind speed:1.95m/s
 2025-12-12 03:00:00
             Desc:Clear Sky
-            Temp:19.3°C
+            Temp:19.2°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:32
-            Wind speed:1.94m/s
+            Humidity:33
+            Wind speed:1.63m/s
 2025-12-12 06:00:00
             Desc:Clear Sky
-            Temp:25.7°C
+            Temp:25.8°C
             Cloudy:0%
             Precipitation:0%
             Humidity:22
-            Wind speed:1.95m/s
+            Wind speed:2.77m/s
 2025-12-12 09:00:00
             Desc:Clear Sky
-            Temp:28.6°C
+            Temp:28.5°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:17
-            Wind speed:1.87m/s
+            Humidity:16
+            Wind speed:2.1m/s
 2025-12-12 12:00:00
             Desc:Clear Sky
-            Temp:24.1°C
+            Temp:24.2°C
             Cloudy:0%
             Precipitation:0%
             Humidity:27
-            Wind speed:0.96m/s
+            Wind speed:1.37m/s
 2025-12-12 15:00:00
             Desc:Clear Sky
             Temp:21.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:28
-            Wind speed:0.54m/s
+            Humidity:29
+            Wind speed:1.85m/s
 2025-12-12 18:00:00
             Desc:Clear Sky
-            Temp:18.8°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:34
-            Wind speed:0.51m/s
-2025-12-12 21:00:00
-            Desc:Clear Sky
-            Temp:17.5°C
+            Temp:18.7°C
             Cloudy:0%
             Precipitation:0%
             Humidity:36
-            Wind speed:1.3m/s
+            Wind speed:0.66m/s
+2025-12-12 21:00:00
+            Desc:Clear Sky
+            Temp:17.4°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:38
+            Wind speed:1.23m/s
 
 
 2025-12-13 00:00:00
             Desc:Clear Sky
             Temp:16.0°C
-            Cloudy:0%
+            Cloudy:1%
             Precipitation:0%
-            Humidity:40
-            Wind speed:1.58m/s
+            Humidity:42
+            Wind speed:1.55m/s
 2025-12-13 03:00:00
             Desc:Clear Sky
-            Temp:19.6°C
-            Cloudy:0%
+            Temp:19.8°C
+            Cloudy:2%
             Precipitation:0%
-            Humidity:35
-            Wind speed:2.35m/s
+            Humidity:36
+            Wind speed:1.93m/s
 2025-12-13 06:00:00
             Desc:Clear Sky
             Temp:25.9°C
-            Cloudy:0%
+            Cloudy:9%
             Precipitation:0%
             Humidity:25
-            Wind speed:2.08m/s
+            Wind speed:1.37m/s
 2025-12-13 09:00:00
             Desc:Clear Sky
-            Temp:28.8°C
+            Temp:28.7°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:19
-            Wind speed:1.92m/s
+            Humidity:20
+            Wind speed:1.62m/s
 2025-12-13 12:00:00
             Desc:Clear Sky
-            Temp:24.8°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:27
-            Wind speed:1.67m/s
-2025-12-13 15:00:00
-            Desc:Clear Sky
-            Temp:21.7°C
+            Temp:24.7°C
             Cloudy:2%
             Precipitation:0%
+            Humidity:29
+            Wind speed:1.46m/s
+2025-12-13 15:00:00
+            Desc:Clear Sky
+            Temp:21.9°C
+            Cloudy:3%
+            Precipitation:0%
             Humidity:31
-            Wind speed:1.45m/s
+            Wind speed:1.73m/s
 2025-12-13 18:00:00
             Desc:Clear Sky
-            Temp:19.5°C
+            Temp:19.4°C
             Cloudy:1%
             Precipitation:0%
-            Humidity:35
-            Wind speed:1.74m/s
+            Humidity:37
+            Wind speed:1.71m/s
 2025-12-13 21:00:00
             Desc:Clear Sky
             Temp:17.9°C
-            Cloudy:6%
+            Cloudy:1%
             Precipitation:0%
-            Humidity:39
-            Wind speed:2.4m/s
+            Humidity:40
+            Wind speed:1.99m/s
 
 
 2025-12-14 00:00:00
             Desc:Clear Sky
-            Temp:16.4°C
+            Temp:16.3°C
+            Cloudy:3%
+            Precipitation:0%
+            Humidity:43
+            Wind speed:1.88m/s
+2025-12-14 03:00:00
+            Desc:Clear Sky
+            Temp:19.7°C
+            Cloudy:9%
+            Precipitation:0%
+            Humidity:37
+            Wind speed:2.27m/s
+2025-12-14 06:00:00
+            Desc:Clear Sky
+            Temp:26.1°C
             Cloudy:6%
             Precipitation:0%
-            Humidity:42
-            Wind speed:2.15m/s
-2025-12-14 03:00:00
-            Desc:Scattered Clouds
-            Temp:19.8°C
-            Cloudy:48%
-            Precipitation:0%
-            Humidity:35
-            Wind speed:2.07m/s
-2025-12-14 06:00:00
-            Desc:Scattered Clouds
-            Temp:26.1°C
-            Cloudy:29%
-            Precipitation:0%
-            Humidity:23
-            Wind speed:2.02m/s
+            Humidity:26
+            Wind speed:2m/s
 2025-12-14 09:00:00
-            Desc:Clear Sky
-            Temp:29.0°C
-            Cloudy:0%
+            Desc:Scattered Clouds
+            Temp:29.2°C
+            Cloudy:31%
             Precipitation:0%
             Humidity:19
-            Wind speed:1.7m/s
+            Wind speed:1.87m/s
 2025-12-14 12:00:00
-            Desc:Clear Sky
-            Temp:25.3°C
-            Cloudy:1%
+            Desc:Broken Clouds
+            Temp:25.6°C
+            Cloudy:65%
             Precipitation:0%
             Humidity:25
-            Wind speed:2.14m/s
+            Wind speed:2.49m/s
