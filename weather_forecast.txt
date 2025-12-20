@@ -1,57 +1,50 @@
 Akola,
 
 
-2025-12-20 12:00:00
-            Desc:Clear Sky
-            Temp:24.5°C
-            Cloudy:2%
-            Precipitation:0%
-            Humidity:21
-            Wind speed:2.28m/s
 2025-12-20 15:00:00
             Desc:Clear Sky
             Temp:23.2°C
             Cloudy:1%
             Precipitation:0%
             Humidity:22
-            Wind speed:2.23m/s
+            Wind speed:2.2m/s
 2025-12-20 18:00:00
             Desc:Clear Sky
             Temp:20.3°C
             Cloudy:1%
             Precipitation:0%
-            Humidity:26
-            Wind speed:2.06m/s
+            Humidity:25
+            Wind speed:2.1m/s
 2025-12-20 21:00:00
             Desc:Scattered Clouds
-            Temp:16.8°C
-            Cloudy:44%
+            Temp:16.3°C
+            Cloudy:45%
             Precipitation:0%
-            Humidity:31
-            Wind speed:2.08m/s
+            Humidity:32
+            Wind speed:1.68m/s
 
 
 2025-12-21 00:00:00
             Desc:Broken Clouds
-            Temp:16.1°C
+            Temp:15.8°C
             Cloudy:72%
             Precipitation:0%
             Humidity:33
-            Wind speed:2.74m/s
+            Wind speed:2.32m/s
 2025-12-21 03:00:00
             Desc:Overcast Clouds
-            Temp:18.5°C
+            Temp:18.3°C
             Cloudy:100%
             Precipitation:0%
             Humidity:31
-            Wind speed:1.4m/s
+            Wind speed:1.52m/s
 2025-12-21 06:00:00
             Desc:Overcast Clouds
-            Temp:24.4°C
+            Temp:24.0°C
             Cloudy:100%
             Precipitation:0%
             Humidity:23
-            Wind speed:2.42m/s
+            Wind speed:2.26m/s
 2025-12-21 09:00:00
             Desc:Overcast Clouds
             Temp:27.4°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:22
             Wind speed:1.59m/s
+2025-12-25 12:00:00
+            Desc:Few Clouds
+            Temp:25.3°C
+            Cloudy:19%
+            Precipitation:0%
+            Humidity:30
+            Wind speed:1.5m/s
