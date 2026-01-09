@@ -2,49 +2,49 @@ Akola,
 
 
 2026-01-09 15:00:00
-            Desc:Clear Sky
+            Desc:Few Clouds
             Temp:24.2°C
-            Cloudy:8%
+            Cloudy:12%
             Precipitation:0%
             Humidity:28
-            Wind speed:3.44m/s
+            Wind speed:3.21m/s
 2026-01-09 18:00:00
             Desc:Clear Sky
             Temp:21.4°C
-            Cloudy:5%
+            Cloudy:10%
             Precipitation:0%
             Humidity:32
-            Wind speed:3.33m/s
+            Wind speed:3.04m/s
 2026-01-09 21:00:00
-            Desc:Scattered Clouds
+            Desc:Few Clouds
             Temp:17.5°C
-            Cloudy:34%
+            Cloudy:20%
             Precipitation:0%
-            Humidity:38
-            Wind speed:3.46m/s
+            Humidity:37
+            Wind speed:3.36m/s
 
 
 2026-01-10 00:00:00
             Desc:Scattered Clouds
-            Temp:16.1°C
-            Cloudy:44%
+            Temp:16.0°C
+            Cloudy:37%
             Precipitation:0%
             Humidity:42
-            Wind speed:3.87m/s
+            Wind speed:3.83m/s
 2026-01-10 03:00:00
             Desc:Scattered Clouds
             Temp:18.4°C
-            Cloudy:48%
+            Cloudy:39%
             Precipitation:0%
-            Humidity:39
-            Wind speed:3.64m/s
+            Humidity:38
+            Wind speed:3.73m/s
 2026-01-10 06:00:00
-            Desc:Broken Clouds
-            Temp:25.4°C
-            Cloudy:60%
+            Desc:Scattered Clouds
+            Temp:25.5°C
+            Cloudy:40%
             Precipitation:0%
-            Humidity:23
-            Wind speed:4.47m/s
+            Humidity:22
+            Wind speed:4.48m/s
 2026-01-10 09:00:00
             Desc:Scattered Clouds
             Temp:28.0°C
