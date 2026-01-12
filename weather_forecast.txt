@@ -1,57 +1,50 @@
 Akola,
 
 
-2026-01-12 12:00:00
-            Desc:Clear Sky
-            Temp:26.8°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:26
-            Wind speed:2.95m/s
 2026-01-12 15:00:00
             Desc:Clear Sky
             Temp:25.5°C
             Cloudy:0%
             Precipitation:0%
             Humidity:28
-            Wind speed:3.88m/s
+            Wind speed:3.89m/s
 2026-01-12 18:00:00
             Desc:Clear Sky
-            Temp:23.0°C
+            Temp:23.1°C
             Cloudy:0%
             Precipitation:0%
             Humidity:32
-            Wind speed:3.21m/s
+            Wind speed:3.18m/s
 2026-01-12 21:00:00
             Desc:Clear Sky
-            Temp:19.6°C
-            Cloudy:0%
+            Temp:19.4°C
+            Cloudy:7%
             Precipitation:0%
-            Humidity:38
-            Wind speed:3.86m/s
+            Humidity:39
+            Wind speed:3.01m/s
 
 
 2026-01-13 00:00:00
             Desc:Clear Sky
-            Temp:18.4°C
-            Cloudy:0%
+            Temp:18.3°C
+            Cloudy:3%
             Precipitation:0%
             Humidity:42
-            Wind speed:3.26m/s
+            Wind speed:2.91m/s
 2026-01-13 03:00:00
             Desc:Clear Sky
             Temp:20.5°C
             Cloudy:0%
             Precipitation:0%
             Humidity:38
-            Wind speed:3.27m/s
+            Wind speed:3.04m/s
 2026-01-13 06:00:00
             Desc:Clear Sky
-            Temp:26.9°C
+            Temp:26.8°C
             Cloudy:0%
             Precipitation:0%
             Humidity:26
-            Wind speed:3.65m/s
+            Wind speed:3.4m/s
 2026-01-13 09:00:00
             Desc:Clear Sky
             Temp:29.5°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:21
             Wind speed:1.27m/s
+2026-01-17 12:00:00
+            Desc:Broken Clouds
+            Temp:29.9°C
+            Cloudy:66%
+            Precipitation:0%
+            Humidity:29
+            Wind speed:0.83m/s
