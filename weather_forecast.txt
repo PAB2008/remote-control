@@ -1,57 +1,50 @@
 Akola,
 
 
-2026-01-15 12:00:00
-            Desc:Clear Sky
-            Temp:28.1°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:24
-            Wind speed:2.43m/s
 2026-01-15 15:00:00
             Desc:Clear Sky
             Temp:26.7°C
             Cloudy:0%
             Precipitation:0%
             Humidity:26
-            Wind speed:3.34m/s
+            Wind speed:3.4m/s
 2026-01-15 18:00:00
             Desc:Clear Sky
-            Temp:23.4°C
+            Temp:23.2°C
             Cloudy:0%
             Precipitation:0%
             Humidity:32
-            Wind speed:3.37m/s
+            Wind speed:3.21m/s
 2026-01-15 21:00:00
             Desc:Clear Sky
-            Temp:18.9°C
+            Temp:18.7°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:38
-            Wind speed:2.95m/s
+            Humidity:39
+            Wind speed:3.31m/s
 
 
 2026-01-16 00:00:00
             Desc:Clear Sky
-            Temp:17.5°C
+            Temp:17.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:40
-            Wind speed:2.75m/s
+            Humidity:41
+            Wind speed:2.93m/s
 2026-01-16 03:00:00
             Desc:Clear Sky
-            Temp:19.8°C
-            Cloudy:0%
+            Temp:19.6°C
+            Cloudy:1%
             Precipitation:0%
             Humidity:34
-            Wind speed:2.43m/s
+            Wind speed:2.61m/s
 2026-01-16 06:00:00
             Desc:Clear Sky
-            Temp:26.4°C
+            Temp:26.2°C
             Cloudy:1%
             Precipitation:0%
             Humidity:24
-            Wind speed:2.02m/s
+            Wind speed:2.44m/s
 2026-01-16 09:00:00
             Desc:Clear Sky
             Temp:29.4°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:22
             Wind speed:2.5m/s
+2026-01-20 12:00:00
+            Desc:Clear Sky
+            Temp:30.6°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:22
+            Wind speed:4.83m/s
