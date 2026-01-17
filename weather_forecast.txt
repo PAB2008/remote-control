@@ -47,39 +47,39 @@ Akola,
             Wind speed:1.13m/s
 2026-01-18 09:00:00
             Desc:Clear Sky
-            Temp:30.9°C
+            Temp:30.8°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:22
-            Wind speed:2.37m/s
+            Humidity:23
+            Wind speed:2.32m/s
 2026-01-18 12:00:00
             Desc:Clear Sky
-            Temp:30.1°C
+            Temp:30.0°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:24
-            Wind speed:2.44m/s
+            Humidity:25
+            Wind speed:2.52m/s
 2026-01-18 15:00:00
             Desc:Clear Sky
-            Temp:25.1°C
-            Cloudy:2%
-            Precipitation:0%
-            Humidity:33
-            Wind speed:2.52m/s
-2026-01-18 18:00:00
-            Desc:Clear Sky
-            Temp:23.3°C
+            Temp:25.2°C
             Cloudy:1%
             Precipitation:0%
-            Humidity:37
-            Wind speed:2.62m/s
+            Humidity:34
+            Wind speed:2.81m/s
+2026-01-18 18:00:00
+            Desc:Clear Sky
+            Temp:23.2°C
+            Cloudy:1%
+            Precipitation:0%
+            Humidity:39
+            Wind speed:2.48m/s
 2026-01-18 21:00:00
             Desc:Clear Sky
-            Temp:20.8°C
+            Temp:21.1°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:41
-            Wind speed:1.91m/s
+            Humidity:43
+            Wind speed:2.39m/s
 
 
 2026-01-19 00:00:00
@@ -87,57 +87,57 @@ Akola,
             Temp:19.1°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:46
-            Wind speed:1.51m/s
+            Humidity:48
+            Wind speed:1.66m/s
 2026-01-19 03:00:00
             Desc:Clear Sky
-            Temp:21.5°C
+            Temp:21.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:40
-            Wind speed:1.12m/s
+            Humidity:41
+            Wind speed:1m/s
 2026-01-19 06:00:00
             Desc:Clear Sky
             Temp:27.2°C
             Cloudy:0%
             Precipitation:0%
             Humidity:26
-            Wind speed:1.49m/s
+            Wind speed:1.22m/s
 2026-01-19 09:00:00
             Desc:Clear Sky
-            Temp:30.4°C
+            Temp:30.3°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:23
-            Wind speed:1.57m/s
+            Humidity:22
+            Wind speed:1.6m/s
 2026-01-19 12:00:00
             Desc:Clear Sky
             Temp:29.7°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:25
-            Wind speed:3.28m/s
+            Humidity:24
+            Wind speed:3.14m/s
 2026-01-19 15:00:00
             Desc:Clear Sky
-            Temp:25.3°C
+            Temp:25.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:31
-            Wind speed:3.35m/s
+            Humidity:32
+            Wind speed:3.51m/s
 2026-01-19 18:00:00
             Desc:Clear Sky
             Temp:22.5°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:37
-            Wind speed:2.45m/s
+            Humidity:38
+            Wind speed:2.51m/s
 2026-01-19 21:00:00
             Desc:Clear Sky
-            Temp:20.5°C
+            Temp:20.7°C
             Cloudy:0%
             Precipitation:0%
             Humidity:42
-            Wind speed:1.38m/s
+            Wind speed:1.66m/s
 
 
 2026-01-20 00:00:00
