@@ -1,57 +1,50 @@
 Akola,
 
 
-2026-01-25 12:00:00
-            Desc:Clear Sky
-            Temp:29.5°C
-            Cloudy:1%
-            Precipitation:0%
-            Humidity:24
-            Wind speed:2.99m/s
 2026-01-25 15:00:00
             Desc:Clear Sky
             Temp:28.0°C
-            Cloudy:2%
+            Cloudy:8%
             Precipitation:0%
             Humidity:27
-            Wind speed:4.03m/s
+            Wind speed:4.07m/s
 2026-01-25 18:00:00
-            Desc:Clear Sky
-            Temp:25.2°C
-            Cloudy:2%
+            Desc:Few Clouds
+            Temp:25.3°C
+            Cloudy:15%
             Precipitation:0%
             Humidity:32
-            Wind speed:3.63m/s
+            Wind speed:3.4m/s
 2026-01-25 21:00:00
-            Desc:Scattered Clouds
-            Temp:21.3°C
-            Cloudy:45%
+            Desc:Few Clouds
+            Temp:21.5°C
+            Cloudy:23%
             Precipitation:0%
-            Humidity:38
-            Wind speed:1.66m/s
+            Humidity:39
+            Wind speed:1.71m/s
 
 
 2026-01-26 00:00:00
             Desc:Few Clouds
-            Temp:20.5°C
-            Cloudy:23%
+            Temp:20.6°C
+            Cloudy:11%
             Precipitation:0%
             Humidity:40
-            Wind speed:2.61m/s
+            Wind speed:2.69m/s
 2026-01-26 03:00:00
             Desc:Clear Sky
-            Temp:22.8°C
+            Temp:22.9°C
             Cloudy:0%
             Precipitation:0%
             Humidity:36
-            Wind speed:3.77m/s
+            Wind speed:4.36m/s
 2026-01-26 06:00:00
             Desc:Clear Sky
             Temp:29.3°C
             Cloudy:0%
             Precipitation:0%
             Humidity:24
-            Wind speed:5.26m/s
+            Wind speed:5.44m/s
 2026-01-26 09:00:00
             Desc:Clear Sky
             Temp:31.6°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:26
             Wind speed:2.28m/s
+2026-01-30 12:00:00
+            Desc:Broken Clouds
+            Temp:33.1°C
+            Cloudy:64%
+            Precipitation:0%
+            Humidity:26
+            Wind speed:1.85m/s
