@@ -1,57 +1,50 @@
 Akola,
 
 
-2026-02-06 12:00:00
-            Desc:Clear Sky
-            Temp:30.5°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:21
-            Wind speed:0.56m/s
 2026-02-06 15:00:00
             Desc:Clear Sky
             Temp:28.9°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:23
-            Wind speed:1.9m/s
+            Humidity:24
+            Wind speed:2.58m/s
 2026-02-06 18:00:00
             Desc:Clear Sky
             Temp:25.9°C
             Cloudy:0%
             Precipitation:0%
             Humidity:27
-            Wind speed:2.85m/s
+            Wind speed:2.73m/s
 2026-02-06 21:00:00
             Desc:Clear Sky
-            Temp:22.0°C
+            Temp:21.9°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:33
-            Wind speed:2.51m/s
+            Humidity:34
+            Wind speed:2.25m/s
 
 
 2026-02-07 00:00:00
             Desc:Clear Sky
-            Temp:20.3°C
+            Temp:20.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:37
-            Wind speed:1.63m/s
+            Humidity:36
+            Wind speed:2.45m/s
 2026-02-07 03:00:00
             Desc:Clear Sky
-            Temp:23.0°C
+            Temp:22.6°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:31
-            Wind speed:2.98m/s
+            Humidity:30
+            Wind speed:3.14m/s
 2026-02-07 06:00:00
             Desc:Clear Sky
-            Temp:29.1°C
+            Temp:28.9°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:20
-            Wind speed:3.04m/s
+            Humidity:19
+            Wind speed:2.99m/s
 2026-02-07 09:00:00
             Desc:Clear Sky
             Temp:31.0°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:18
             Wind speed:1.4m/s
+2026-02-11 12:00:00
+            Desc:Clear Sky
+            Temp:34.0°C
+            Cloudy:7%
+            Precipitation:0%
+            Humidity:18
+            Wind speed:2.67m/s
