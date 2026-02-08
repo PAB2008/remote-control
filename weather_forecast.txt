@@ -1,293 +1,293 @@
 Akola,
 
 
-2026-02-08 12:00:00
-            Desc:Clear Sky
-            Temp:29.7°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:16
-            Wind speed:1.91m/s
 2026-02-08 15:00:00
-            Desc:Clear Sky
-            Temp:28.3°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:18
-            Wind speed:1.5m/s
-2026-02-08 18:00:00
             Desc:Clear Sky
             Temp:25.6°C
             Cloudy:0%
             Precipitation:0%
             Humidity:22
-            Wind speed:2.2m/s
-2026-02-08 21:00:00
+            Wind speed:1.92m/s
+2026-02-08 18:00:00
             Desc:Clear Sky
-            Temp:21.7°C
+            Temp:24.9°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:27
-            Wind speed:1.89m/s
+            Humidity:23
+            Wind speed:2.25m/s
+2026-02-08 21:00:00
+            Desc:Clear Sky
+            Temp:22.9°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:26
+            Wind speed:2.09m/s
 
 
 2026-02-09 00:00:00
             Desc:Clear Sky
-            Temp:20.2°C
+            Temp:20.0°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:29
-            Wind speed:2.43m/s
+            Humidity:30
+            Wind speed:2.45m/s
 2026-02-09 03:00:00
             Desc:Clear Sky
-            Temp:22.7°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:26
-            Wind speed:1.92m/s
-2026-02-09 06:00:00
-            Desc:Clear Sky
-            Temp:28.9°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:18
-            Wind speed:2.06m/s
-2026-02-09 09:00:00
-            Desc:Clear Sky
-            Temp:31.4°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:16
-            Wind speed:1.38m/s
-2026-02-09 12:00:00
-            Desc:Clear Sky
-            Temp:31.3°C
-            Cloudy:1%
-            Precipitation:0%
-            Humidity:15
-            Wind speed:1.92m/s
-2026-02-09 15:00:00
-            Desc:Clear Sky
-            Temp:27.2°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:19
-            Wind speed:2.39m/s
-2026-02-09 18:00:00
-            Desc:Clear Sky
-            Temp:24.7°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:23
-            Wind speed:3.45m/s
-2026-02-09 21:00:00
-            Desc:Clear Sky
-            Temp:23.0°C
+            Temp:22.5°C
             Cloudy:0%
             Precipitation:0%
             Humidity:27
-            Wind speed:2.83m/s
+            Wind speed:2.03m/s
+2026-02-09 06:00:00
+            Desc:Clear Sky
+            Temp:28.6°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:19
+            Wind speed:2m/s
+2026-02-09 09:00:00
+            Desc:Clear Sky
+            Temp:31.0°C
+            Cloudy:8%
+            Precipitation:0%
+            Humidity:17
+            Wind speed:1.43m/s
+2026-02-09 12:00:00
+            Desc:Clear Sky
+            Temp:31.0°C
+            Cloudy:4%
+            Precipitation:0%
+            Humidity:16
+            Wind speed:1.87m/s
+2026-02-09 15:00:00
+            Desc:Clear Sky
+            Temp:27.0°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:21
+            Wind speed:2.02m/s
+2026-02-09 18:00:00
+            Desc:Clear Sky
+            Temp:24.9°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:24
+            Wind speed:2.54m/s
+2026-02-09 21:00:00
+            Desc:Clear Sky
+            Temp:22.8°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:28
+            Wind speed:2.44m/s
 
 
 2026-02-10 00:00:00
             Desc:Clear Sky
-            Temp:21.0°C
+            Temp:21.1°C
             Cloudy:0%
             Precipitation:0%
             Humidity:31
-            Wind speed:1.7m/s
+            Wind speed:2.57m/s
 2026-02-10 03:00:00
             Desc:Clear Sky
-            Temp:23.9°C
+            Temp:23.6°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:26
-            Wind speed:1.74m/s
+            Humidity:27
+            Wind speed:1.66m/s
 2026-02-10 06:00:00
             Desc:Clear Sky
             Temp:29.9°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:17
-            Wind speed:2.48m/s
+            Humidity:18
+            Wind speed:2.78m/s
 2026-02-10 09:00:00
-            Desc:Clear Sky
+            Desc:Scattered Clouds
             Temp:32.5°C
-            Cloudy:3%
+            Cloudy:27%
             Precipitation:0%
             Humidity:15
-            Wind speed:0.97m/s
+            Wind speed:0.86m/s
 2026-02-10 12:00:00
-            Desc:Clear Sky
-            Temp:32.5°C
-            Cloudy:4%
+            Desc:Few Clouds
+            Temp:32.4°C
+            Cloudy:15%
             Precipitation:0%
-            Humidity:14
-            Wind speed:1.93m/s
+            Humidity:15
+            Wind speed:1.78m/s
 2026-02-10 15:00:00
             Desc:Clear Sky
             Temp:27.9°C
-            Cloudy:3%
+            Cloudy:0%
             Precipitation:0%
-            Humidity:19
-            Wind speed:3.4m/s
+            Humidity:20
+            Wind speed:3.63m/s
 2026-02-10 18:00:00
             Desc:Clear Sky
-            Temp:25.5°C
-            Cloudy:3%
+            Temp:25.3°C
+            Cloudy:1%
             Precipitation:0%
-            Humidity:22
-            Wind speed:3.8m/s
+            Humidity:24
+            Wind speed:3.46m/s
 2026-02-10 21:00:00
             Desc:Clear Sky
-            Temp:23.4°C
-            Cloudy:5%
+            Temp:23.5°C
+            Cloudy:2%
             Precipitation:0%
-            Humidity:25
-            Wind speed:1.76m/s
+            Humidity:26
+            Wind speed:1.81m/s
 
 
 2026-02-11 00:00:00
             Desc:Clear Sky
-            Temp:21.8°C
+            Temp:22.1°C
+            Cloudy:2%
+            Precipitation:0%
+            Humidity:29
+            Wind speed:2.74m/s
+2026-02-11 03:00:00
+            Desc:Clear Sky
+            Temp:24.4°C
+            Cloudy:6%
+            Precipitation:0%
+            Humidity:25
+            Wind speed:0.36m/s
+2026-02-11 06:00:00
+            Desc:Clear Sky
+            Temp:30.4°C
             Cloudy:4%
             Precipitation:0%
-            Humidity:28
-            Wind speed:1.43m/s
-2026-02-11 03:00:00
-            Desc:Broken Clouds
-            Temp:24.9°C
-            Cloudy:51%
-            Precipitation:0%
-            Humidity:23
-            Wind speed:0.39m/s
-2026-02-11 06:00:00
-            Desc:Scattered Clouds
-            Temp:30.3°C
-            Cloudy:30%
-            Precipitation:0%
-            Humidity:17
+            Humidity:18
             Wind speed:2.46m/s
 2026-02-11 09:00:00
-            Desc:Overcast Clouds
-            Temp:32.9°C
-            Cloudy:88%
+            Desc:Clear Sky
+            Temp:33.0°C
+            Cloudy:9%
             Precipitation:0%
-            Humidity:14
-            Wind speed:1.57m/s
+            Humidity:15
+            Wind speed:1.7m/s
 2026-02-11 12:00:00
-            Desc:Broken Clouds
-            Temp:32.8°C
-            Cloudy:84%
+            Desc:Clear Sky
+            Temp:33.0°C
+            Cloudy:8%
             Precipitation:0%
-            Humidity:14
-            Wind speed:1.18m/s
+            Humidity:15
+            Wind speed:1.58m/s
 2026-02-11 15:00:00
-            Desc:Few Clouds
-            Temp:28.1°C
-            Cloudy:19%
+            Desc:Clear Sky
+            Temp:28.4°C
+            Cloudy:7%
             Precipitation:0%
             Humidity:19
-            Wind speed:2.75m/s
+            Wind speed:2.32m/s
 2026-02-11 18:00:00
-            Desc:Few Clouds
-            Temp:26.0°C
-            Cloudy:13%
+            Desc:Scattered Clouds
+            Temp:26.1°C
+            Cloudy:28%
             Precipitation:0%
             Humidity:21
-            Wind speed:3.13m/s
+            Wind speed:2.79m/s
 2026-02-11 21:00:00
-            Desc:Clear Sky
-            Temp:24.2°C
-            Cloudy:1%
+            Desc:Few Clouds
+            Temp:23.7°C
+            Cloudy:21%
             Precipitation:0%
-            Humidity:23
-            Wind speed:1.96m/s
+            Humidity:24
+            Wind speed:1.22m/s
 
 
 2026-02-12 00:00:00
-            Desc:Clear Sky
-            Temp:22.2°C
-            Cloudy:2%
+            Desc:Few Clouds
+            Temp:22.1°C
+            Cloudy:11%
             Precipitation:0%
-            Humidity:26
-            Wind speed:1.48m/s
+            Humidity:27
+            Wind speed:0.76m/s
 2026-02-12 03:00:00
             Desc:Clear Sky
             Temp:25.4°C
-            Cloudy:3%
+            Cloudy:0%
             Precipitation:0%
-            Humidity:22
-            Wind speed:1.12m/s
+            Humidity:21
+            Wind speed:0.97m/s
 2026-02-12 06:00:00
             Desc:Clear Sky
-            Temp:30.6°C
-            Cloudy:1%
+            Temp:30.7°C
+            Cloudy:0%
             Precipitation:0%
             Humidity:16
-            Wind speed:1.23m/s
+            Wind speed:1.71m/s
 2026-02-12 09:00:00
             Desc:Clear Sky
             Temp:33.4°C
-            Cloudy:1%
+            Cloudy:2%
             Precipitation:0%
             Humidity:14
-            Wind speed:0.2m/s
+            Wind speed:0.5m/s
 2026-02-12 12:00:00
             Desc:Clear Sky
-            Temp:33.4°C
-            Cloudy:3%
+            Temp:33.3°C
+            Cloudy:6%
             Precipitation:0%
             Humidity:14
-            Wind speed:2.29m/s
+            Wind speed:1.93m/s
 2026-02-12 15:00:00
-            Desc:Scattered Clouds
-            Temp:29.5°C
-            Cloudy:46%
+            Desc:Few Clouds
+            Temp:29.2°C
+            Cloudy:22%
             Precipitation:0%
             Humidity:18
-            Wind speed:3.19m/s
+            Wind speed:2.51m/s
 2026-02-12 18:00:00
             Desc:Scattered Clouds
-            Temp:27.1°C
-            Cloudy:49%
+            Temp:26.3°C
+            Cloudy:48%
             Precipitation:0%
-            Humidity:21
-            Wind speed:2.41m/s
+            Humidity:22
+            Wind speed:2m/s
 2026-02-12 21:00:00
-            Desc:Broken Clouds
-            Temp:24.9°C
-            Cloudy:66%
+            Desc:Overcast Clouds
+            Temp:24.7°C
+            Cloudy:98%
             Precipitation:0%
             Humidity:24
-            Wind speed:2.21m/s
+            Wind speed:2.44m/s
 
 
 2026-02-13 00:00:00
             Desc:Broken Clouds
-            Temp:22.8°C
-            Cloudy:51%
+            Temp:22.5°C
+            Cloudy:53%
             Precipitation:0%
             Humidity:28
-            Wind speed:1.86m/s
+            Wind speed:2.9m/s
 2026-02-13 03:00:00
-            Desc:Scattered Clouds
-            Temp:25.5°C
-            Cloudy:50%
+            Desc:Broken Clouds
+            Temp:24.9°C
+            Cloudy:55%
             Precipitation:0%
             Humidity:25
-            Wind speed:3.03m/s
+            Wind speed:1.56m/s
 2026-02-13 06:00:00
             Desc:Broken Clouds
-            Temp:31.4°C
-            Cloudy:51%
+            Temp:31.2°C
+            Cloudy:65%
             Precipitation:0%
-            Humidity:18
-            Wind speed:2.62m/s
+            Humidity:17
+            Wind speed:2.02m/s
 2026-02-13 09:00:00
             Desc:Broken Clouds
             Temp:34.1°C
-            Cloudy:84%
+            Cloudy:79%
             Precipitation:0%
-            Humidity:16
-            Wind speed:1.31m/s
+            Humidity:15
+            Wind speed:0.44m/s
+2026-02-13 12:00:00
+            Desc:Broken Clouds
+            Temp:34.2°C
+            Cloudy:82%
+            Precipitation:0%
+            Humidity:14
+            Wind speed:3.1m/s
