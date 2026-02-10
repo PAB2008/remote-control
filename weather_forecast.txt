@@ -1,57 +1,50 @@
 Akola,
 
 
-2026-02-10 12:00:00
-            Desc:Clear Sky
-            Temp:31.7°C
-            Cloudy:1%
-            Precipitation:0%
-            Humidity:17
-            Wind speed:1.46m/s
 2026-02-10 15:00:00
             Desc:Clear Sky
             Temp:30.3°C
             Cloudy:1%
             Precipitation:0%
             Humidity:19
-            Wind speed:4.06m/s
+            Wind speed:3.81m/s
 2026-02-10 18:00:00
             Desc:Clear Sky
-            Temp:27.2°C
+            Temp:27.1°C
             Cloudy:0%
             Precipitation:0%
             Humidity:25
-            Wind speed:2.45m/s
+            Wind speed:3.01m/s
 2026-02-10 21:00:00
             Desc:Clear Sky
-            Temp:23.4°C
-            Cloudy:1%
+            Temp:23.1°C
+            Cloudy:3%
             Precipitation:0%
-            Humidity:30
-            Wind speed:1.56m/s
+            Humidity:31
+            Wind speed:1.77m/s
 
 
 2026-02-11 00:00:00
             Desc:Clear Sky
-            Temp:21.6°C
-            Cloudy:8%
+            Temp:21.5°C
+            Cloudy:9%
             Precipitation:0%
             Humidity:34
-            Wind speed:1.04m/s
+            Wind speed:1.17m/s
 2026-02-11 03:00:00
-            Desc:Broken Clouds
-            Temp:24.4°C
-            Cloudy:78%
+            Desc:Clear Sky
+            Temp:24.0°C
+            Cloudy:9%
             Precipitation:0%
             Humidity:29
-            Wind speed:0.46m/s
+            Wind speed:1.05m/s
 2026-02-11 06:00:00
-            Desc:Scattered Clouds
-            Temp:29.9°C
-            Cloudy:47%
+            Desc:Few Clouds
+            Temp:29.4°C
+            Cloudy:16%
             Precipitation:0%
-            Humidity:20
-            Wind speed:2.9m/s
+            Humidity:21
+            Wind speed:2.28m/s
 2026-02-11 09:00:00
             Desc:Broken Clouds
             Temp:32.1°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:12
             Wind speed:1.26m/s
+2026-02-15 12:00:00
+            Desc:Clear Sky
+            Temp:34.2°C
+            Cloudy:10%
+            Precipitation:0%
+            Humidity:12
+            Wind speed:1.97m/s
