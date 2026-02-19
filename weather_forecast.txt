@@ -3,55 +3,55 @@ Akola,
 
 2026-02-19 12:00:00
             Desc:Scattered Clouds
-            Temp:33.1°C
+            Temp:32.8°C
             Cloudy:35%
             Precipitation:0%
-            Humidity:23
-            Wind speed:4.72m/s
+            Humidity:24
+            Wind speed:5.18m/s
 2026-02-19 15:00:00
             Desc:Scattered Clouds
-            Temp:32.1°C
-            Cloudy:35%
+            Temp:31.8°C
+            Cloudy:39%
             Precipitation:0%
-            Humidity:25
-            Wind speed:4.53m/s
+            Humidity:26
+            Wind speed:4.3m/s
 2026-02-19 18:00:00
             Desc:Scattered Clouds
-            Temp:30.4°C
+            Temp:29.6°C
             Cloudy:48%
             Precipitation:0%
-            Humidity:28
-            Wind speed:2.2m/s
+            Humidity:29
+            Wind speed:2.85m/s
 2026-02-19 21:00:00
             Desc:Clear Sky
-            Temp:26.3°C
-            Cloudy:6%
+            Temp:26.1°C
+            Cloudy:8%
             Precipitation:0%
-            Humidity:33
-            Wind speed:2.87m/s
+            Humidity:32
+            Wind speed:3.4m/s
 
 
 2026-02-20 00:00:00
-            Desc:Scattered Clouds
-            Temp:25.5°C
-            Cloudy:26%
+            Desc:Few Clouds
+            Temp:24.7°C
+            Cloudy:15%
             Precipitation:0%
             Humidity:35
-            Wind speed:2.4m/s
+            Wind speed:2.71m/s
 2026-02-20 03:00:00
             Desc:Broken Clouds
-            Temp:27.1°C
-            Cloudy:67%
+            Temp:26.5°C
+            Cloudy:61%
             Precipitation:0%
-            Humidity:30
-            Wind speed:4.77m/s
+            Humidity:31
+            Wind speed:4.46m/s
 2026-02-20 06:00:00
             Desc:Scattered Clouds
             Temp:32.4°C
-            Cloudy:47%
+            Cloudy:31%
             Precipitation:0%
             Humidity:25
-            Wind speed:3.02m/s
+            Wind speed:3.24m/s
 2026-02-20 09:00:00
             Desc:Clear Sky
             Temp:34.9°C
