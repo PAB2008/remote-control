@@ -6,7 +6,7 @@ Akola,
             Temp:30.8°C
             Cloudy:4%
             Precipitation:0%
-            Humidity:17
+            Humidity:18
             Wind speed:4.96m/s
 2026-03-02 18:00:00
             Desc:Clear Sky
