@@ -1,57 +1,50 @@
 Akola,
 
 
-2026-03-05 12:00:00
-            Desc:Clear Sky
-            Temp:36.4°C
-            Cloudy:5%
-            Precipitation:0%
-            Humidity:8
-            Wind speed:6.17m/s
 2026-03-05 15:00:00
             Desc:Clear Sky
             Temp:34.8°C
-            Cloudy:3%
+            Cloudy:5%
             Precipitation:0%
             Humidity:10
-            Wind speed:4.48m/s
+            Wind speed:4.32m/s
 2026-03-05 18:00:00
             Desc:Clear Sky
             Temp:31.7°C
-            Cloudy:2%
+            Cloudy:4%
             Precipitation:0%
             Humidity:13
-            Wind speed:3.54m/s
+            Wind speed:3.17m/s
 2026-03-05 21:00:00
             Desc:Clear Sky
-            Temp:27.2°C
+            Temp:27.0°C
             Cloudy:0%
             Precipitation:0%
             Humidity:19
-            Wind speed:2.81m/s
+            Wind speed:2.4m/s
 
 
 2026-03-06 00:00:00
             Desc:Clear Sky
-            Temp:24.9°C
-            Cloudy:2%
-            Precipitation:0%
-            Humidity:23
-            Wind speed:3.81m/s
-2026-03-06 03:00:00
-            Desc:Clear Sky
-            Temp:28.2°C
-            Cloudy:2%
-            Precipitation:0%
-            Humidity:19
-            Wind speed:3.86m/s
-2026-03-06 06:00:00
-            Desc:Clear Sky
-            Temp:35.6°C
+            Temp:25.0°C
             Cloudy:1%
             Precipitation:0%
+            Humidity:24
+            Wind speed:3.56m/s
+2026-03-06 03:00:00
+            Desc:Clear Sky
+            Temp:27.9°C
+            Cloudy:1%
+            Precipitation:0%
+            Humidity:20
+            Wind speed:4.17m/s
+2026-03-06 06:00:00
+            Desc:Clear Sky
+            Temp:35.3°C
+            Cloudy:0%
+            Precipitation:0%
             Humidity:11
-            Wind speed:3.35m/s
+            Wind speed:2.93m/s
 2026-03-06 09:00:00
             Desc:Clear Sky
             Temp:38.3°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:6
             Wind speed:2.23m/s
+2026-03-10 12:00:00
+            Desc:Clear Sky
+            Temp:39.6°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:6
+            Wind speed:1.89m/s
