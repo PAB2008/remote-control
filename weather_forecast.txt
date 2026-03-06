@@ -1,57 +1,50 @@
 Akola,
 
 
-2026-03-06 12:00:00
-            Desc:Clear Sky
-            Temp:37.3°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:9
-            Wind speed:4.29m/s
 2026-03-06 15:00:00
             Desc:Clear Sky
             Temp:35.5°C
             Cloudy:0%
             Precipitation:0%
             Humidity:11
-            Wind speed:4.12m/s
+            Wind speed:4.21m/s
 2026-03-06 18:00:00
             Desc:Clear Sky
-            Temp:32.4°C
+            Temp:32.3°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:14
-            Wind speed:2.62m/s
+            Humidity:15
+            Wind speed:2.67m/s
 2026-03-06 21:00:00
             Desc:Clear Sky
             Temp:27.4°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:19
-            Wind speed:3.02m/s
+            Humidity:20
+            Wind speed:2.82m/s
 
 
 2026-03-07 00:00:00
             Desc:Clear Sky
-            Temp:25.7°C
+            Temp:25.6°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:22
-            Wind speed:3.18m/s
+            Humidity:23
+            Wind speed:2.93m/s
 2026-03-07 03:00:00
             Desc:Clear Sky
-            Temp:29.0°C
+            Temp:28.8°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:18
-            Wind speed:3.43m/s
+            Humidity:19
+            Wind speed:2.61m/s
 2026-03-07 06:00:00
             Desc:Clear Sky
-            Temp:35.3°C
+            Temp:35.1°C
             Cloudy:0%
             Precipitation:0%
             Humidity:11
-            Wind speed:2.28m/s
+            Wind speed:2.38m/s
 2026-03-07 09:00:00
             Desc:Clear Sky
             Temp:37.9°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:7
             Wind speed:2.69m/s
+2026-03-11 12:00:00
+            Desc:Clear Sky
+            Temp:39.7°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:7
+            Wind speed:1.31m/s
