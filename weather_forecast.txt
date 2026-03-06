@@ -3,24 +3,24 @@ Akola,
 
 2026-03-06 15:00:00
             Desc:Clear Sky
-            Temp:35.2°C
+            Temp:31.7°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:11
+            Humidity:14
             Wind speed:4.21m/s
 2026-03-06 18:00:00
             Desc:Clear Sky
-            Temp:32.2°C
+            Temp:31.1°C
             Cloudy:0%
             Precipitation:0%
             Humidity:15
             Wind speed:2.67m/s
 2026-03-06 21:00:00
             Desc:Clear Sky
-            Temp:27.4°C
+            Temp:28.8°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:20
+            Humidity:18
             Wind speed:2.82m/s
 
 
