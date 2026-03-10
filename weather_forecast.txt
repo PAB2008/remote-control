@@ -1,34 +1,27 @@
 Akola,
 
 
-2026-03-10 12:00:00
-            Desc:Clear Sky
-            Temp:37.5°C
-            Cloudy:0%
-            Precipitation:0%
-            Humidity:10
-            Wind speed:3.55m/s
 2026-03-10 15:00:00
             Desc:Clear Sky
             Temp:36.0°C
             Cloudy:0%
             Precipitation:0%
             Humidity:12
-            Wind speed:3.51m/s
+            Wind speed:3.6m/s
 2026-03-10 18:00:00
             Desc:Clear Sky
-            Temp:32.9°C
+            Temp:32.7°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:15
-            Wind speed:1.37m/s
+            Humidity:16
+            Wind speed:1.07m/s
 2026-03-10 21:00:00
             Desc:Clear Sky
             Temp:28.2°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:20
-            Wind speed:0.63m/s
+            Humidity:21
+            Wind speed:0.86m/s
 
 
 2026-03-11 00:00:00
@@ -36,22 +29,22 @@ Akola,
             Temp:26.5°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:22
-            Wind speed:0.8m/s
+            Humidity:23
+            Wind speed:0.3m/s
 2026-03-11 03:00:00
             Desc:Clear Sky
-            Temp:30.5°C
+            Temp:30.3°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:17
-            Wind speed:1.88m/s
+            Humidity:18
+            Wind speed:1.48m/s
 2026-03-11 06:00:00
             Desc:Clear Sky
-            Temp:36.2°C
+            Temp:35.8°C
             Cloudy:0%
             Precipitation:0%
             Humidity:12
-            Wind speed:1.38m/s
+            Wind speed:2m/s
 2026-03-11 09:00:00
             Desc:Clear Sky
             Temp:38.4°C
@@ -291,3 +284,10 @@ Akola,
             Precipitation:0%
             Humidity:13
             Wind speed:3.09m/s
+2026-03-15 12:00:00
+            Desc:Clear Sky
+            Temp:37.8°C
+            Cloudy:0%
+            Precipitation:0%
+            Humidity:12
+            Wind speed:6.32m/s
