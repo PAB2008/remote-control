@@ -2,25 +2,25 @@ Akola,
 
 
 2026-03-26 15:00:00
-            Desc:Clear Sky
-            Temp:37.8°C
-            Cloudy:8%
+            Desc:Few Clouds
+            Temp:35.7°C
+            Cloudy:24%
             Precipitation:0%
-            Humidity:15
+            Humidity:17
             Wind speed:4.26m/s
 2026-03-26 18:00:00
-            Desc:Clear Sky
-            Temp:35.2°C
-            Cloudy:8%
+            Desc:Few Clouds
+            Temp:35.0°C
+            Cloudy:20%
             Precipitation:0%
             Humidity:18
             Wind speed:4.05m/s
 2026-03-26 21:00:00
             Desc:Scattered Clouds
-            Temp:31.5°C
-            Cloudy:30%
+            Temp:32.9°C
+            Cloudy:28%
             Precipitation:0%
-            Humidity:21
+            Humidity:20
             Wind speed:3.76m/s
 
 
@@ -191,103 +191,103 @@ Akola,
             Wind speed:3.83m/s
 2026-03-29 21:00:00
             Desc:Clear Sky
-            Temp:31.1°C
+            Temp:30.9°C
             Cloudy:0%
             Precipitation:0%
-            Humidity:29
-            Wind speed:4.07m/s
+            Humidity:30
+            Wind speed:3.93m/s
 
 
 2026-03-30 00:00:00
             Desc:Clear Sky
             Temp:29.1°C
-            Cloudy:0%
+            Cloudy:1%
             Precipitation:0%
-            Humidity:36
-            Wind speed:4.8m/s
+            Humidity:37
+            Wind speed:4.92m/s
 2026-03-30 03:00:00
             Desc:Clear Sky
-            Temp:32.1°C
-            Cloudy:0%
+            Temp:31.8°C
+            Cloudy:3%
             Precipitation:0%
-            Humidity:31
-            Wind speed:5.28m/s
+            Humidity:32
+            Wind speed:6.46m/s
 2026-03-30 06:00:00
             Desc:Few Clouds
-            Temp:37.4°C
-            Cloudy:21%
+            Temp:37.3°C
+            Cloudy:18%
             Precipitation:0%
             Humidity:22
-            Wind speed:4.45m/s
+            Wind speed:3.11m/s
 2026-03-30 09:00:00
             Desc:Overcast Clouds
-            Temp:39.7°C
-            Cloudy:85%
+            Temp:39.5°C
+            Cloudy:88%
             Precipitation:0%
             Humidity:16
-            Wind speed:4.76m/s
+            Wind speed:3.33m/s
 2026-03-30 12:00:00
             Desc:Light Rain
-            Temp:38.1°C
-            Cloudy:77%
-            Precipitation:20.0%
-            Humidity:18
-            Wind speed:4.38m/s
+            Temp:32.9°C
+            Cloudy:66%
+            Precipitation:34.0%
+            Humidity:27
+            Wind speed:12.16m/s
 2026-03-30 15:00:00
             Desc:Light Rain
-            Temp:28.1°C
-            Cloudy:98%
-            Precipitation:100%
-            Humidity:49
-            Wind speed:7.74m/s
+            Temp:32.7°C
+            Cloudy:100%
+            Precipitation:62.0%
+            Humidity:27
+            Wind speed:4.7m/s
 2026-03-30 18:00:00
             Desc:Light Rain
             Temp:29.8°C
-            Cloudy:99%
-            Precipitation:100%
-            Humidity:38
-            Wind speed:5.15m/s
+            Cloudy:86%
+            Precipitation:56.99999999999999%
+            Humidity:33
+            Wind speed:2.14m/s
 2026-03-30 21:00:00
-            Desc:Overcast Clouds
-            Temp:29.0°C
-            Cloudy:97%
-            Precipitation:0%
-            Humidity:41
-            Wind speed:0.33m/s
+            Desc:Light Rain
+            Temp:29.8°C
+            Cloudy:100%
+            Precipitation:20.0%
+            Humidity:35
+            Wind speed:0.96m/s
 
 
 2026-03-31 00:00:00
-            Desc:Overcast Clouds
+            Desc:Broken Clouds
             Temp:27.8°C
-            Cloudy:99%
+            Cloudy:78%
             Precipitation:0%
-            Humidity:43
-            Wind speed:3.34m/s
+            Humidity:37
+            Wind speed:2.11m/s
 2026-03-31 03:00:00
             Desc:Overcast Clouds
-            Temp:29.6°C
-            Cloudy:99%
+            Temp:30.9°C
+            Cloudy:91%
             Precipitation:0%
-            Humidity:38
-            Wind speed:3.56m/s
+            Humidity:31
+            Wind speed:2.43m/s
 2026-03-31 06:00:00
-            Desc:Broken Clouds
-            Temp:34.8°C
-            Cloudy:62%
+            Desc:Scattered Clouds
+            Temp:35.9°C
+            Cloudy:46%
             Precipitation:0%
-            Humidity:25
-            Wind speed:1.26m/s
+            Humidity:22
+            Wind speed:1.81m/s
 2026-03-31 09:00:00
             Desc:Clear Sky
-            Temp:37.6°C
-            Cloudy:0%
+            Temp:38.5°C
+            Cloudy:2%
             Precipitation:0%
-            Humidity:20
-            Wind speed:2.36m/s
+            Humidity:16
+            Wind speed:2.31m/s
 2026-03-31 12:00:00
             Desc:Clear Sky
-            Temp:38.2°C
-            Cloudy:0%
+            Temp:39.1°C
+            Cloudy:2%
             Precipitation:0%
-            Humidity:17
-            Wind speed:2.98m/s
+            Humidity:13
+            Wind speed:4.3m/s
